@@ -8,7 +8,17 @@ df = pd.read_csv('CarsDataset.csv', encoding='cp1252')
 st.title('CS CAPSTONE PROJECT')
 
 st.subheader('Data Information:')
-st.write(df.describe())
+# Group car prices above 500,000 into one category
+df['Grouped Prices'] = df['Car Prices$'].apply(lambda x: x if x <= 250000 else 250000)
+
+# Boxplot for grouped car prices
+fig, ax = plt.subplots()
+ax.boxplot(df['Grouped Prices'], vert=False, patch_artist=True,
+           boxprops=dict(facecolor='skyblue', color='black'),
+           medianprops=dict(color='red'))
+ax.set_title('Distribution of Car Prices (Capped at 250,000)')
+ax.set_xlabel('Price (in $)')
+st.pyplot(fig)
 
 # Pie chart of car manufacturers
 manufacturer_counts = df['Company Names'].value_counts()
