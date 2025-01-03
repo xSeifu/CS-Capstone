@@ -1,103 +1,103 @@
 Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque
-FERRARI,SF90 STRADALE,V8,3990 cc,963 hp,340 km/h,2.5 sec,"$1,100,000 ",plug in hyrbrid,2,800 Nm
-ROLLS ROYCE,PHANTOM,V12,6749 cc,563 hp,250 km/h,5.3 sec,"$460,000 ",Petrol,5,900 Nm
-Ford,KA+,1.2L Petrol,"1,200 cc",70-85 hp,165 km/h,10.5 sec,"$12,000-$15,000",Petrol,5,100 - 140 Nm
-MERCEDES, GT 63 S,V8,"3,982 cc",630 hp,250 km/h,3.2 sec,"$161,000 ",Petrol,4,900 Nm
-AUDI,AUDI R8 Gt,V10,"5,204 cc",602 hp,320 km/h,3.6 sec,"$253,290 ",Petrol,2,560 Nm
+Ferrari,SF90 STRADALE,V8,3990 cc,963 hp,340 km/h,2.5 sec,"$1,100,000 ",plug in hyrbrid,2,800 Nm
+Rolls Royce,PHANTOM,V12,6749 cc,563 hp,250 km/h,5.3 sec,"$460,000 ",Petrol,5,900 Nm
+Ford,KA+,1.2L Petrol,"1,200 cc",70-85 hp,165 km/h,10.5 sec,"$12,000 ",Petrol,5,100 - 140 Nm
+Mercedes, GT 63 S,V8,"3,982 cc",630 hp,250 km/h,3.2 sec,"$161,000 ",Petrol,4,900 Nm
+Audi,Audi R8 Gt,V10,"5,204 cc",602 hp,320 km/h,3.6 sec,"$253,290 ",Petrol,2,560 Nm
 BMW,Mclaren 720s,V8,"3,994 cc",710 hp,341 km/h,2.9 sec,"$499,000 ",Petrol,2,770 Nm
-ASTON MARTIN,VANTAGE F1,V8,"3,982 cc",656 hp,314 km/h,3.6 sec,"$193,440 ",Petrol,2,685 Nm
+Aston Martin,VANTAGE F1,V8,"3,982 cc",656 hp,314 km/h,3.6 sec,"$193,440 ",Petrol,2,685 Nm
 BENTLEY,Continental GT Azure,V8,"3,996 cc",550 hp,318 km/h,4.0 sec,"$311,000 ",Petrol,4,900 Nm
-LAMBORGHINI,VENENO ROADSTER,V12,"6,498 cc",750 hp,356 km/h,2.9 sec,"$4,500,000 ",Petrol,2,690 Nm
-FERRARI,F8 TRIBUTO,V8,"3,900 cc",710 hp,340 km/h,2.9 sec,"$280,000 ",Petrol,2,770 Nm
-FERRARI,812 GTS,V12,6496 cc,789 hp,340 km/h,2.9 sec,"$350,000 ",Petrol,2,718 Nm
-FERRARI,PORTOFINO,V8,"3,900 cc",592 hp,320 km/h,3.2 sec,"$210,000 ",Petrol,2+2,760 Nm
-FERRARI,ROMA,V8,"3,900 cc",612 hp,320 km/h,3.4 sec,"$230,000 ",Petrol,2+2,760 Nm
-FERRARI,MONZA SP2,V12,"6,496 cc",789 hp,340 km/h,2.9 sec,"$1,700,000 ",Petrol,2,719 Nm
-FERRARI,F8 SPIDER,V8,"3,900 cc",710 hp,340 km/h,2.9 sec,"$280,000 ",Petrol,2,770 Nm
-FERRARI,PORTOFINO M,V8,"3,900 cc",612 hp,320 km/h,3.2 sec,"$220,000 ",Petrol,2+2,760 Nm
-FERRARI,ROMA SPIDER,V8,"3,900 cc",612 hp,320 km/h,3.4 sec,"$240,000 ",Petrol,2+2,760 Nm
-TOYOTA,GR SUPRA,I4,"2,998 cc",382 hp,250 km/h,4.1 sec,"$53,900 ",Petrol,2,500 Nm
-TOYOTA,TOYOTA 86,BOXER-4,"1,998 cc",205 hp,226 km/h,6.4 sec,"$27,000 ",Petrol,2+2,205 Nm
-TOYOTA,TOYOTA  GR86,BOXER-4,"2,387 cc",228 hp,226 km/h,5.6 sec,"$30,000 ",Petrol,4,250 Nm
-TOYOTA,TOYOTA LAND CRUISER,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$85,000 ",Diesel,7,500 Nm
-TOYOTA,TOYOTA SEQUOIA,V8,"5,663 cc",381 hp,200 km/h,6.9 sec,"$50,000 ",Petrol,7,651 Nm
-NISSAN,GT-R,V6,"3,799 cc",600 hp,315 km/h,2.9 sec,"$113,000 ",Petrol,4,637 Nm
-NISSAN,370Z,V6,"3,696 cc",332 hp,250 km/h,4.7 sec,"$30,000 ",Petrol,2,366 Nm
-NISSAN,Z PROTO,V6,"2,998 cc",400 hp,290 km/h,4.1 sec,"$40,000 ",Petrol,2,475 Nm
-NISSAN,ALTIMA,I4,"2,488 cc",188 hp,225 km/h,7.3 sec,"$25,000 ",Petrol,5,380 Nm
-NISSAN,MAXIMA,V6,"3,498 cc",300 hp,240 km/h,5.8 sec,"$35,000 ",Petrol,5,354 Nm
-NISSAN,SENTRA,I4,"1,998 cc",149 hp,200 km/h,8.2 sec,"$20,000 ",Petrol,5,240 Nm
-NISSAN,ROGUE,I4,"2,488 cc",201 hp,200 km/h,7.5 sec,"$28,000 ",Petrol,5,270 Nm
-NISSAN,PATHFINDER,V6,"3,498 cc",284 hp,225 km/h,6.5 sec,"$35,000 ",Petrol,7,351 Nm
-NISSAN,FRONTIER,V6,"3,799 cc",310 hp,180 km/h,6.8 sec,"$30,000 ",Petrol,5,381 Nm
-NISSAN,TITAN,V8,"5,598 cc",400 hp,200 km/h,5.9 sec,"$40,000 ",Petrol,5,560 Nm
-ASTON MARTIN,VALKYRIE,V12,"6,496 cc",1160 hp,402 km/h,2.5 sec,"$3,200,000 ",Hybrid,2,900 Nm
-ASTON MARTIN,VALHALLA,V8,"3,996 cc",1000 hp,362 km/h,2.5 sec,"$1,100,000 ",Hybrid,2,1000 Nm
-ASTON MARTIN,DBS SUPERLEGGERA,V12,"5,204 cc",715 hp,340 km/h,3.4 sec,"$316,000 ",Petrol,2,900 Nm
-ASTON MARTIN,DB11,V12,"5,204 cc",600 hp,322 km/h,3.9 sec,"$208,000 ",Petrol,4,700 Nm
-ASTON MARTIN,VANTAGE ,V8,"3,996 cc",503 hp,313 km/h,3.6 sec,"$142,000 ",Petrol,2,685 Nm
-ASTON MARTIN,DBX,V8,"3,996 cc",542 hp,291 km/h,4.5 sec,"$189,000 ",Petrol,5,700 Nm
-ASTON MARTIN,RAPIDE AMR,V12,"5,935 cc",580 hp,328 km/h,4.2 sec,"$240,000 ",Petrol,4,630 Nm
-ASTON MARTIN,VANQUISH,V12,"5,935 cc",580 hp,324 km/h,3.6 sec,"$294,000 ",Petrol,2,630 Nm
-ASTON MARTIN,LAGONDA TARAF,V12,"5,935 cc",540 hp,314 km/h,4.2 sec,"$1,100,000 ",Petrol,4,630 Nm
-ASTON MARTIN,VICTOR,V12,"5,204 cc",836 hp,320 km/h,2.8 sec,"$1,300,000 ",Petrol,2,821 Nm
-LAMBORGHINI,SIAN,V12,"6,498 cc",819 hp,350 km/h,2.8 sec,"$2,800,000 ",Hybrid,2,720 Nm
-LAMBORGHINI,AVENTADOR SVJ,V12,"6,498 cc",759 hp,350 km/h,2.8 sec,"$518,000 ",Petrol,2,720 Nm
-LAMBORGHINI,HURACAN PERFORMANTE,V10,"5,204 cc",640 hp,325 km/h,2.9 sec,"$274,000 ",Petrol,2,600 Nm
-LAMBORGHINI,HURACAN EVO,V10,"5,204 cc",640 hp,325 km/h,2.9 sec,"$261,000 ",Petrol,2,600 Nm
-LAMBORGHINI,AVENTADOR SV,V12,"6,498 cc",740 hp,350 km/h,2.8 sec,"$493,000 ",Petrol,2,690 Nm
-LAMBORGHINI,URUS ,V8,"3,996 cc",641 hp,305 km/h,3.6 sec,"$211,000 ",Petrol,5,850 Nm
-LAMBORGHINI,HURACAN SPYDER,V10,"5,204 cc",610 hp,325 km/h,3.4 sec,"$287,000 ",Petrol,2,600 Nm
-LAMBORGHINI,AVENTADOR ROADSTER,V12,"6,498 cc",700 hp,350 km/h,3.0 sec,"$445,000 ",Petrol,2,690 Nm
-LAMBORGHINI,HURACAN  PERFORMANTE SPYDER,V10,"5,204 cc",640 hp,325 km/h,3.1 sec,"$308,000 ",Petrol,2,600 Nm
-LAMBORGHINI,AVENTADOR S,V12,"6,498 cc",740 hp,350 km/h,2.9 sec,"$421,000 ",Petrol,2,690 Nm
-LAMBORGHINI,HURACAN EVO SPYDER,V10,"5,204 cc",640 hp,325 km/h,3.1 sec,"$287,000 ",Petrol,2,600 Nm
-LAMBORGHINI,URUS PERFORMANTE,V8,"3,996 cc",641 hp,305 km/h,3.3 sec,"$242,000 ",Petrol,5,850 Nm
-LAMBORGHINI,AVENTADOR ULTIMAE,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$545,000 ",Petrol,2,720 Nm
-LAMBORGHINI,HURACAN EVO RWD,V10,"5,204 cc",610 hp,325 km/h,3.3 sec,"$258,000 ",Petrol,2,560 Nm
-LAMBORGHINI,AVENTADOR SVJ ROADSTER,V12,"6,498 cc",759 hp,350 km/h,2.9 sec,"$573,000 ",Petrol,2,720 Nm
-LAMBORGHINI,URUS S,V8,"3,996 cc",671 hp,305 km/h,3.3 sec,"$263,000 ",Petrol,5,850 Nm
-LAMBORGHINI,HURACAN STO,V10,"5,204 cc",640 hp,325 km/h,3.0 sec,"$327,000 ",Petrol,2,565 Nm
-LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$545,000 ",Petrol,2,720 Nm
-LAMBORGHINI,HURACAN EVO RWD SPYDER,V10,"5,204 cc",610 hp,325 km/h,3.3 sec,"$273,000 ",Petrol,2,600 Nm
-LAMBORGHINI,AVENTADOR SVJ XAGO,V12,"6,498 cc",759 hp,350 km/h,2.9 sec,"$603,000 ",Petrol,2,720 Nm
-LAMBORGHINI,URUS GRAPHITE CAPSULE,V8,"3,998 cc",641 hp,305 km/h,3.3 sec,"$253,000 ",Petrol,5,850 Nm
-LAMBORGHINI,HURACAN STO EVO,V10,"5,204 cc",640 hp,325 km/h,3.0 sec,"$342,000 ",Petrol,2,565 Nm
-LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE ROADSTER,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$573,000 ",Petrol,2,720 Nm
-ROLLS ROYCE ,GHOST,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$332,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,WRAITH,V12,"6,592 cc",624 hp,250 km/h,4.4 sec,"$330,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,DAWN,V12,"6,592 cc",624 hp,250 km/h,4.9 sec,"$360,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,CULLINAN,V12,"6,749 cc",563 hp,250 km/h,5.2 sec,"$325,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,PHANTOM EXTENDED,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$500,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,GHOST EXTENDED,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$370,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,WRAITH BLACK BADGE,V12,"6,592 cc",624 hp,250 km/h,4.3 sec,"$360,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,DAWN BLACK BADGE,V12,"6,592 cc",624 hp,250 km/h,4.8 sec,"$390,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,CULLINAN BLACK BADGE,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$350,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,PHANTOM COUPE,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$450,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,GHOST COUPE,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$340,000 ",Petrol,4,850 Nm
-ROLLS ROYCE,WRAITH COUPE,V12,"6,592 cc",624 hp,250 km/h,4.4 sec,"$330,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,DAWN CONVERTIBLE,V12,"6,592 cc",624 hp,250 km/h,4.9 sec,"$380,000 ",Petrol,4,870 Nm
-ROLLS ROYCE,CULLINAN SUV,V12,"6,749 cc",563 hp,250 km/h,5.2 sec,"$320,000 ",Petrol,5,850 Nm
-MERCEDES,BENZ S-CLASS S 580,V8,"3,982 cc",496 hp,250 km/h,4.4 sec,"$116,000 ",Petrol,5,700 Nm
-MERCEDES,BENZ E-CLASS E 63 S,V8,"3,982 cc",603 hp,250 km/h,3.4 sec,"$104,000 ",Petrol,5,850 Nm
-MERCEDES,BENZ CLA 45 AMG,I4,1991 cc,382 hp,250 km/h,4.1 sec,"$53,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GLE 63 S,V8,"3,982 cc",603 hp,250 km/h,4.2 sec,"$113,000 ",Petrol,5,850 Nm
-MERCEDES,BENZ S-CLASS S 500,V6,"2,996 cc",429 hp,250 km/h,4.9 sec,"$109,000 ",Petrol,5,700 Nm
-MERCEDES,BENZ E-CLASS E 450 ,V6,"2,996 cc",362 hp,250 km/h,5.2 sec,"$62,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ CLS 450,V6,"2,996 cc",362 hp,250 km/h,5.2 sec,"$70,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GT 53,V6,"2,996 cc",429 hp,250 km/h,4.5 sec,"$99,000 ",Petrol,5,700 Nm
-MERCEDES,BENZ GLE 450,V6,"2,996 cc",362 hp,250 km/h,5.5 sec,"$63,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ A-CLASS A 45 S,I4,"1,991 cc",416 hp,250 km/h,3.9 sec,"$53,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ C-CLASS C 43,V6,"2,996 cc",402 hp,250 km/h,4.7 sec,"$52,000 ",Petrol,5,520 Nm
-MERCEDES,BENZ E-CLASS E 350,I4,"1,991 cc",255 hp,250 km/h,5.7 sec,"$49,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GLE 350 ,I4,"1,991 cc",255 hp,250 km/h, 6.1 sec,"$53,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GLC 43,V6,"2,996 cc",402 hp,250 km/h,4.7 sec,"$54,000 ",Petrol,5,520 Nm
-MERCEDES,BENZ GLA 45,I4,"1,991 cc",382 hp,250 km/h,4.3 sec,"$48,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GLC 350 ,I4,"1,991 cc",255 hp,250 km/h,6.1 sec,"$46,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ GLE 53,V6,"2,996 cc",429 hp,250 km/h,5.2 sec,"$71,000 ",Petrol,5,620 Nm
-MERCEDES,BENZ S-CLASS S 350,I4,"1,991 cc",255 hp,250 km/h,6.5 sec,"$90,000 ",Petrol,5,500 Nm
-MERCEDES,BENZ EQS 53,ELECTRIC MOTOR,N/A,751 hp,250 km/h,3.4 sec,"$102,000 ",Electric,5,950 Nm
-MERCEDES,BENZ MAYBACH S 680,V12,"5,980 cc",630 hp,250 km/h,4.7 sec,"$200,000 ",Petrol,5,1000 Nm
+Lamborghini,VENENO ROADSTER,V12,"6,498 cc",750 hp,356 km/h,2.9 sec,"$4,500,000 ",Petrol,2,690 Nm
+Ferrari,F8 TRIBUTO,V8,"3,900 cc",710 hp,340 km/h,2.9 sec,"$280,000 ",Petrol,2,770 Nm
+Ferrari,812 GTS,V12,6496 cc,789 hp,340 km/h,2.9 sec,"$350,000 ",Petrol,2,718 Nm
+Ferrari,PORTOFINO,V8,"3,900 cc",592 hp,320 km/h,3.2 sec,"$210,000 ",Petrol,4,760 Nm
+Ferrari,ROMA,V8,"3,900 cc",612 hp,320 km/h,3.4 sec,"$230,000 ",Petrol,4,760 Nm
+Ferrari,MONZA SP2,V12,"6,496 cc",789 hp,340 km/h,2.9 sec,"$1,700,000 ",Petrol,2,719 Nm
+Ferrari,F8 SPIDER,V8,"3,900 cc",710 hp,340 km/h,2.9 sec,"$280,000 ",Petrol,2,770 Nm
+Ferrari,PORTOFINO M,V8,"3,900 cc",612 hp,320 km/h,3.2 sec,"$220,000 ",Petrol,4,760 Nm
+Ferrari,ROMA SPIDER,V8,"3,900 cc",612 hp,320 km/h,3.4 sec,"$240,000 ",Petrol,4,760 Nm
+Toyota,GR SUPRA,I4,"2,998 cc",382 hp,250 km/h,4.1 sec,"$53,900 ",Petrol,2,500 Nm
+Toyota,Toyota 86,BOXER-4,"1,998 cc",205 hp,226 km/h,6.4 sec,"$27,000 ",Petrol,4,205 Nm
+Toyota,Toyota  GR86,BOXER-4,"2,387 cc",228 hp,226 km/h,5.6 sec,"$30,000 ",Petrol,4,250 Nm
+Toyota,Toyota LAND CRUISER,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$85,000 ",Diesel,7,500 Nm
+Toyota,Toyota SEQUOIA,V8,"5,663 cc",381 hp,200 km/h,6.9 sec,"$50,000 ",Petrol,7,651 Nm
+Nissan,GT-R,V6,"3,799 cc",600 hp,315 km/h,2.9 sec,"$113,000 ",Petrol,4,637 Nm
+Nissan,370Z,V6,"3,696 cc",332 hp,250 km/h,4.7 sec,"$30,000 ",Petrol,2,366 Nm
+Nissan,Z PROTO,V6,"2,998 cc",400 hp,290 km/h,4.1 sec,"$40,000 ",Petrol,2,475 Nm
+Nissan,ALTIMA,I4,"2,488 cc",188 hp,225 km/h,7.3 sec,"$25,000 ",Petrol,5,380 Nm
+Nissan,MAXIMA,V6,"3,498 cc",300 hp,240 km/h,5.8 sec,"$35,000 ",Petrol,5,354 Nm
+Nissan,SENTRA,I4,"1,998 cc",149 hp,200 km/h,8.2 sec,"$20,000 ",Petrol,5,240 Nm
+Nissan,ROGUE,I4,"2,488 cc",201 hp,200 km/h,7.5 sec,"$28,000 ",Petrol,5,270 Nm
+Nissan,PATHFINDER,V6,"3,498 cc",284 hp,225 km/h,6.5 sec,"$35,000 ",Petrol,7,351 Nm
+Nissan,FRONTIER,V6,"3,799 cc",310 hp,180 km/h,6.8 sec,"$30,000 ",Petrol,5,381 Nm
+Nissan,TITAN,V8,"5,598 cc",400 hp,200 km/h,5.9 sec,"$40,000 ",Petrol,5,560 Nm
+Aston Martin,VALKYRIE,V12,"6,496 cc",1160 hp,402 km/h,2.5 sec,"$3,200,000 ",Hybrid,2,900 Nm
+Aston Martin,VALHALLA,V8,"3,996 cc",1000 hp,362 km/h,2.5 sec,"$1,100,000 ",Hybrid,2,1000 Nm
+Aston Martin,DBS SUPERLEGGERA,V12,"5,204 cc",715 hp,340 km/h,3.4 sec,"$316,000 ",Petrol,2,900 Nm
+Aston Martin,DB11,V12,"5,204 cc",600 hp,322 km/h,3.9 sec,"$208,000 ",Petrol,4,700 Nm
+Aston Martin,VANTAGE ,V8,"3,996 cc",503 hp,313 km/h,3.6 sec,"$142,000 ",Petrol,2,685 Nm
+Aston Martin,DBX,V8,"3,996 cc",542 hp,291 km/h,4.5 sec,"$189,000 ",Petrol,5,700 Nm
+Aston Martin,RAPIDE AMR,V12,"5,935 cc",580 hp,328 km/h,4.2 sec,"$240,000 ",Petrol,4,630 Nm
+Aston Martin,VANQUISH,V12,"5,935 cc",580 hp,324 km/h,3.6 sec,"$294,000 ",Petrol,2,630 Nm
+Aston Martin,LAGONDA TARAF,V12,"5,935 cc",540 hp,314 km/h,4.2 sec,"$1,100,000 ",Petrol,4,630 Nm
+Aston Martin,VICTOR,V12,"5,204 cc",836 hp,320 km/h,2.8 sec,"$1,300,000 ",Petrol,2,821 Nm
+Lamborghini,SIAN,V12,"6,498 cc",819 hp,350 km/h,2.8 sec,"$2,800,000 ",Hybrid,2,720 Nm
+Lamborghini,AVENTADOR SVJ,V12,"6,498 cc",759 hp,350 km/h,2.8 sec,"$518,000 ",Petrol,2,720 Nm
+Lamborghini,HURACAN PERFORMANTE,V10,"5,204 cc",640 hp,325 km/h,2.9 sec,"$274,000 ",Petrol,2,600 Nm
+Lamborghini,HURACAN EVO,V10,"5,204 cc",640 hp,325 km/h,2.9 sec,"$261,000 ",Petrol,2,600 Nm
+Lamborghini,AVENTADOR SV,V12,"6,498 cc",740 hp,350 km/h,2.8 sec,"$493,000 ",Petrol,2,690 Nm
+Lamborghini,URUS ,V8,"3,996 cc",641 hp,305 km/h,3.6 sec,"$211,000 ",Petrol,5,850 Nm
+Lamborghini,HURACAN SPYDER,V10,"5,204 cc",610 hp,325 km/h,3.4 sec,"$287,000 ",Petrol,2,600 Nm
+Lamborghini,AVENTADOR ROADSTER,V12,"6,498 cc",700 hp,350 km/h,3.0 sec,"$445,000 ",Petrol,2,690 Nm
+Lamborghini,HURACAN  PERFORMANTE SPYDER,V10,"5,204 cc",640 hp,325 km/h,3.1 sec,"$308,000 ",Petrol,2,600 Nm
+Lamborghini,AVENTADOR S,V12,"6,498 cc",740 hp,350 km/h,2.9 sec,"$421,000 ",Petrol,2,690 Nm
+Lamborghini,HURACAN EVO SPYDER,V10,"5,204 cc",640 hp,325 km/h,3.1 sec,"$287,000 ",Petrol,2,600 Nm
+Lamborghini,URUS PERFORMANTE,V8,"3,996 cc",641 hp,305 km/h,3.3 sec,"$242,000 ",Petrol,5,850 Nm
+Lamborghini,AVENTADOR ULTIMAE,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$545,000 ",Petrol,2,720 Nm
+Lamborghini,HURACAN EVO RWD,V10,"5,204 cc",610 hp,325 km/h,3.3 sec,"$258,000 ",Petrol,2,560 Nm
+Lamborghini,AVENTADOR SVJ ROADSTER,V12,"6,498 cc",759 hp,350 km/h,2.9 sec,"$573,000 ",Petrol,2,720 Nm
+Lamborghini,URUS S,V8,"3,996 cc",671 hp,305 km/h,3.3 sec,"$263,000 ",Petrol,5,850 Nm
+Lamborghini,HURACAN STO,V10,"5,204 cc",640 hp,325 km/h,3.0 sec,"$327,000 ",Petrol,2,565 Nm
+Lamborghini,AVENTADOR LP 780-4 ULTIMATE,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$545,000 ",Petrol,2,720 Nm
+Lamborghini,HURACAN EVO RWD SPYDER,V10,"5,204 cc",610 hp,325 km/h,3.3 sec,"$273,000 ",Petrol,2,600 Nm
+Lamborghini,AVENTADOR SVJ XAGO,V12,"6,498 cc",759 hp,350 km/h,2.9 sec,"$603,000 ",Petrol,2,720 Nm
+Lamborghini,URUS GRAPHITE CAPSULE,V8,"3,998 cc",641 hp,305 km/h,3.3 sec,"$253,000 ",Petrol,5,850 Nm
+Lamborghini,HURACAN STO EVO,V10,"5,204 cc",640 hp,325 km/h,3.0 sec,"$342,000 ",Petrol,2,565 Nm
+Lamborghini,AVENTADOR LP 780-4 ULTIMATE ROADSTER,V12,"6,498 cc",769 hp,355 km/h,2.8 sec,"$573,000 ",Petrol,2,720 Nm
+Rolls Royce ,GHOST,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$332,000 ",Petrol,5,850 Nm
+Rolls Royce,WRAITH,V12,"6,592 cc",624 hp,250 km/h,4.4 sec,"$330,000 ",Petrol,4,870 Nm
+Rolls Royce,DAWN,V12,"6,592 cc",624 hp,250 km/h,4.9 sec,"$360,000 ",Petrol,4,870 Nm
+Rolls Royce,CULLINAN,V12,"6,749 cc",563 hp,250 km/h,5.2 sec,"$325,000 ",Petrol,5,850 Nm
+Rolls Royce,PHANTOM EXTENDED,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$500,000 ",Petrol,5,900 Nm
+Rolls Royce,GHOST EXTENDED,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$370,000 ",Petrol,5,850 Nm
+Rolls Royce,WRAITH BLACK BADGE,V12,"6,592 cc",624 hp,250 km/h,4.3 sec,"$360,000 ",Petrol,4,870 Nm
+Rolls Royce,DAWN BLACK BADGE,V12,"6,592 cc",624 hp,250 km/h,4.8 sec,"$390,000 ",Petrol,4,870 Nm
+Rolls Royce,CULLINAN BLACK BADGE,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$350,000 ",Petrol,5,850 Nm
+Rolls Royce,PHANTOM COUPE,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$450,000 ",Petrol,4,870 Nm
+Rolls Royce,GHOST COUPE,V12,"6,592 cc",591 hp,250 km/h,4.8 sec,"$340,000 ",Petrol,4,850 Nm
+Rolls Royce,WRAITH COUPE,V12,"6,592 cc",624 hp,250 km/h,4.4 sec,"$330,000 ",Petrol,4,870 Nm
+Rolls Royce,DAWN CONVERTIBLE,V12,"6,592 cc",624 hp,250 km/h,4.9 sec,"$380,000 ",Petrol,4,870 Nm
+Rolls Royce,CULLINAN SUV,V12,"6,749 cc",563 hp,250 km/h,5.2 sec,"$320,000 ",Petrol,5,850 Nm
+Mercedes,BENZ S-CLASS S 580,V8,"3,982 cc",496 hp,250 km/h,4.4 sec,"$116,000 ",Petrol,5,700 Nm
+Mercedes,BENZ E-CLASS E 63 S,V8,"3,982 cc",603 hp,250 km/h,3.4 sec,"$104,000 ",Petrol,5,850 Nm
+Mercedes,BENZ CLA 45 AMG,I4,1991 cc,382 hp,250 km/h,4.1 sec,"$53,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GLE 63 S,V8,"3,982 cc",603 hp,250 km/h,4.2 sec,"$113,000 ",Petrol,5,850 Nm
+Mercedes,BENZ S-CLASS S 500,V6,"2,996 cc",429 hp,250 km/h,4.9 sec,"$109,000 ",Petrol,5,700 Nm
+Mercedes,BENZ E-CLASS E 450 ,V6,"2,996 cc",362 hp,250 km/h,5.2 sec,"$62,000 ",Petrol,5,500 Nm
+Mercedes,BENZ CLS 450,V6,"2,996 cc",362 hp,250 km/h,5.2 sec,"$70,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GT 53,V6,"2,996 cc",429 hp,250 km/h,4.5 sec,"$99,000 ",Petrol,5,700 Nm
+Mercedes,BENZ GLE 450,V6,"2,996 cc",362 hp,250 km/h,5.5 sec,"$63,000 ",Petrol,5,500 Nm
+Mercedes,BENZ A-CLASS A 45 S,I4,"1,991 cc",416 hp,250 km/h,3.9 sec,"$53,000 ",Petrol,5,500 Nm
+Mercedes,BENZ C-CLASS C 43,V6,"2,996 cc",402 hp,250 km/h,4.7 sec,"$52,000 ",Petrol,5,520 Nm
+Mercedes,BENZ E-CLASS E 350,I4,"1,991 cc",255 hp,250 km/h,5.7 sec,"$49,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GLE 350 ,I4,"1,991 cc",255 hp,250 km/h,6.1 sec,"$53,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GLC 43,V6,"2,996 cc",402 hp,250 km/h,4.7 sec,"$54,000 ",Petrol,5,520 Nm
+Mercedes,BENZ GLA 45,I4,"1,991 cc",382 hp,250 km/h,4.3 sec,"$48,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GLC 350 ,I4,"1,991 cc",255 hp,250 km/h,6.1 sec,"$46,000 ",Petrol,5,500 Nm
+Mercedes,BENZ GLE 53,V6,"2,996 cc",429 hp,250 km/h,5.2 sec,"$71,000 ",Petrol,5,620 Nm
+Mercedes,BENZ S-CLASS S 350,I4,"1,991 cc",255 hp,250 km/h,6.5 sec,"$90,000 ",Petrol,5,500 Nm
+Mercedes,BENZ EQS 53,ELECTRIC MOTOR,N/A,751 hp,250 km/h,3.4 sec,"$102,000 ",Electric,5,950 Nm
+Mercedes,BENZ MAYBACH S 680,V12,"5,980 cc",630 hp,250 km/h,4.7 sec,"$200,000 ",Petrol,5,1000 Nm
 BMW,M5 CS,V8,"4,395 cc",627 hp,305 km/h,3.0 sec,"$142,000 ",Petrol,5,750 Nm
 BMW,M4 GTS,I6,"2,993 cc",493 hp,305 km/h,3.7 sec,"$133,000 ",Petrol,4,600 Nm
 BMW,M3 COMPETITION,I6,"2,993 cc",503 hp,285 km/h,3.5 sec,"$76,000 ",Petrol,5,650 Nm
@@ -106,41 +106,41 @@ BMW,X5 M COMPETITION,V8,"4,935 cc",523 hp,285 km/h,4.1 sec,"$114,000 ",Petrol,5,
 BMW,X3 M COMPETITION,I6,"2,993 cc",503 hp,285 km/h,4.1 sec,"$69,000 ",Petrol,5,650 Nm
 BMW,M8 GRAN COUPE,V8,"4,395 cc",523 hp,305 km/h,3.3 sec,"$146,000 ",Petrol,5,750 Nm
 BMW,M850i DRIVE COUPE,V8,"4,935 cc",523 hp,285 km/h,3.7 sec,"$108,000 ",Petrol,4,750 Nm
-ROLLS ROYCE,DAWN BLACK BADGE VOLANTE,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$398,000 ",Petrol,4,840 Nm
-ROLLS ROYCE,CULLINAN BLACK BADGE SUV,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$381,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,PHATOM TRANQUILITY,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$475,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,GHOST ZENITH,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$335,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,WRAITH EAGLE VIII,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$349,000 ",Petrol,4,800 Nm
-ROLLS ROYCE,PHATOM ORCHID,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$495,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,GHOST AZURE,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$355,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,WRAITH KRYPTOS,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$369,000 ",Petrol,4,800 Nm
-ROLLS ROYCE,DAWN SILVER BULLET,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$418,000 ",Petrol,4,840 Nm
-ROLLS ROYCE,CULLINAN FUX ORANGE,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$401,000 ",Petrol,5,850 Nm
-ROLLS ROYCE,PHANTOM CELESTIAL,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$515,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,GHOST MYSORE,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$375,000 ",Petrol,5,900 Nm
-ROLLS ROYCE,WRAITH LUMINARY,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$389,000 ",Petrol,4,800 Nm
-ROLLS ROYCE,DAWN BLACK BADGE ADAMAS,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$439,000 ",Petrol,4,840 Nm
-ROLLS ROYCE,CULLINAN RED DIAMOND,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$421,000 ",Petrol,5,850 Nm
-AUDI,R8 V10 PLUS,V10,"5,204 cc",610 hp,330 km/h,3.2 sec,"$194,000 ",Petrol,2,560 Nm
-AUDI,RS7 SPORTBACK,V8,"3,993 cc",591 hp,305 km/h,3.6 sec,"$114,000 ",Petrol,5,800 Nm
-AUDI,S8,V8,"3,993 cc",563 hp,305 km/h,4.3 sec,"$101,000 ",Petrol,5,800 Nm
-AUDI,RS6 AVANT,V8,"3,993 cc",591 hp,305 km/h,3.6 sec,"$109,000 ",Petrol,5,800 Nm
-AUDI,S7 SPORTBACK,V8,"3,993 cc",563 hp,305 km/h,4.3 sec,"$96,000 ",Petrol,5,650 Nm
-AUDI,A8,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$86,000 ",Petrol,5,600 Nm
-AUDI,S5 COUPE,V6,"2,995 cc",349 hp,250 km/h,4.8 sec,"$64,000 ",Petrol,4,500 Nm
-AUDI,SQ5,V6,"2,995 cc",349 hp,250 km/h,5.4 sec,"$62,000 ",Petrol,5,500 Nm
-AUDI,S4 SEDAN,V6,"2,995 cc",349 hp,250 km/h,4.7 sec,"$59,000 ",Petrol,5,500 Nm
-AUDI,S3 SEDAN,I4,"1,984 cc",306 hp,250 km/h,4.8 sec,"$52,000 ",Petrol,5,400 Nm
-AUDI,Q7,V6,"2,995 cc",335 hp,250 km/h,6.3 sec,"$60,000 ",Petrol,7,600 Nm
-AUDI,Q5,I4,"1,984 cc",248 hp,240 km/h,6.3 sec,"$43,000 ",Petrol,5,500 Nm
-AUDI,A7,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$68,000 ",Petrol,5,600 Nm
-AUDI,A6,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$58,000 ",Petrol,5,600 Nm
-AUDI,A5 COUPE,I4,"1,984 cc",248 hp,240 km/h,6.3 sec,"$45,000 ",Petrol,4,500 Nm
-AUDI,A4,I4,"1,984 cc",248 hp,240 km/h,6.5 sec,"$39,000 ",Petrol,5,400 Nm
-AUDI,Q3,I4,"1,984 cc",248 hp,230 km/h,7.3 sec,"$35,000 ",Petrol,5,400 Nm
-AUDI,E-TRON,ELECTRIC ,95 kwh,402 hp,200 km/h,5.5 sec,"$75,000 ",Electric,5,664 Nm
-AUDI,E-TRON SPORTBACK,ELECTRIC,95 kwh,402 hp,200 km/h,5.5 sec,"$78,000 ",Electric,5,664 Nm
-AUDI,TT COUPE,I4,"1,984 cc",248 hp,250 km/h,5.3 sec,"$49,000 ",Petrol,2,400 Nm
+Rolls Royce,DAWN BLACK BADGE VOLANTE,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$398,000 ",Petrol,4,840 Nm
+Rolls Royce,CULLINAN BLACK BADGE SUV,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$381,000 ",Petrol,5,850 Nm
+Rolls Royce,PHATOM TRANQUILITY,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$475,000 ",Petrol,5,900 Nm
+Rolls Royce,GHOST ZENITH,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$335,000 ",Petrol,5,900 Nm
+Rolls Royce,WRAITH EAGLE VIII,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$349,000 ",Petrol,4,800 Nm
+Rolls Royce,PHATOM ORCHID,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$495,000 ",Petrol,5,900 Nm
+Rolls Royce,GHOST AZURE,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$355,000 ",Petrol,5,900 Nm
+Rolls Royce,WRAITH KRYPTOS,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$369,000 ",Petrol,4,800 Nm
+Rolls Royce,DAWN SILVER BULLET,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$418,000 ",Petrol,4,840 Nm
+Rolls Royce,CULLINAN FUX ORANGE,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$401,000 ",Petrol,5,850 Nm
+Rolls Royce,PHANTOM CELESTIAL,V12,"6,749 cc",563 hp,250 km/h,5.3 sec,"$515,000 ",Petrol,5,900 Nm
+Rolls Royce,GHOST MYSORE,V12,"6,749 cc",563 hp,250 km/h,4.9 sec,"$375,000 ",Petrol,5,900 Nm
+Rolls Royce,WRAITH LUMINARY,V12,"6,592 cc",623 hp,250 km/h,4.5 sec,"$389,000 ",Petrol,4,800 Nm
+Rolls Royce,DAWN BLACK BADGE ADAMAS,V12,"6,592 cc",563 hp,250 km/h,4.8 sec,"$439,000 ",Petrol,4,840 Nm
+Rolls Royce,CULLINAN RED DIAMOND,V12,"6,749 cc",563 hp,250 km/h,5.1 sec,"$421,000 ",Petrol,5,850 Nm
+Audi,R8 V10 PLUS,V10,"5,204 cc",610 hp,330 km/h,3.2 sec,"$194,000 ",Petrol,2,560 Nm
+Audi,RS7 SPORTBACK,V8,"3,993 cc",591 hp,305 km/h,3.6 sec,"$114,000 ",Petrol,5,800 Nm
+Audi,S8,V8,"3,993 cc",563 hp,305 km/h,4.3 sec,"$101,000 ",Petrol,5,800 Nm
+Audi,RS6 AVANT,V8,"3,993 cc",591 hp,305 km/h,3.6 sec,"$109,000 ",Petrol,5,800 Nm
+Audi,S7 SPORTBACK,V8,"3,993 cc",563 hp,305 km/h,4.3 sec,"$96,000 ",Petrol,5,650 Nm
+Audi,A8,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$86,000 ",Petrol,5,600 Nm
+Audi,S5 COUPE,V6,"2,995 cc",349 hp,250 km/h,4.8 sec,"$64,000 ",Petrol,4,500 Nm
+Audi,SQ5,V6,"2,995 cc",349 hp,250 km/h,5.4 sec,"$62,000 ",Petrol,5,500 Nm
+Audi,S4 SEDAN,V6,"2,995 cc",349 hp,250 km/h,4.7 sec,"$59,000 ",Petrol,5,500 Nm
+Audi,S3 SEDAN,I4,"1,984 cc",306 hp,250 km/h,4.8 sec,"$52,000 ",Petrol,5,400 Nm
+Audi,Q7,V6,"2,995 cc",335 hp,250 km/h,6.3 sec,"$60,000 ",Petrol,7,600 Nm
+Audi,Q5,I4,"1,984 cc",248 hp,240 km/h,6.3 sec,"$43,000 ",Petrol,5,500 Nm
+Audi,A7,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$68,000 ",Petrol,5,600 Nm
+Audi,A6,V6,"2,995 cc",335 hp,250 km/h,5.7 sec,"$58,000 ",Petrol,5,600 Nm
+Audi,A5 COUPE,I4,"1,984 cc",248 hp,240 km/h,6.3 sec,"$45,000 ",Petrol,4,500 Nm
+Audi,A4,I4,"1,984 cc",248 hp,240 km/h,6.5 sec,"$39,000 ",Petrol,5,400 Nm
+Audi,Q3,I4,"1,984 cc",248 hp,230 km/h,7.3 sec,"$35,000 ",Petrol,5,400 Nm
+Audi,E-TRON,ELECTRIC ,95 kwh,402 hp,200 km/h,5.5 sec,"$75,000 ",Electric,5,664 Nm
+Audi,E-TRON SPORTBACK,ELECTRIC,95 kwh,402 hp,200 km/h,5.5 sec,"$78,000 ",Electric,5,664 Nm
+Audi,TT COUPE,I4,"1,984 cc",248 hp,250 km/h,5.3 sec,"$49,000 ",Petrol,2,400 Nm
 BMW,I8 ROADSTER,ELECTRIC MOTOR,11.6 kwh,369 hp,250 km/h,4.4 sec,"$165,000 ",Hybrid,2,570 Nm
 BMW,330i,I4,"1,998 cc",255 hp,250 km/h,5.6 sec,"$45,000 ",Petrol,5,400 Nm
 BMW,M340i XDRIVE,I6,"2,998 cc",382 hp,250 km/h,4.1 sec,"$57,000 ",Petrol,5,500 Nm
@@ -181,95 +181,95 @@ KIA,SPORTAGE EX,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$30,000 ",Petrol,5,250 Nm
 KIA,SPORTAGE GT-LINE,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$32,000 ",Petrol,5,350 Nm
 KIA,SPORTAGE SX TURBO,I4,"1,998 cc",240 hp,210 km/h,6.7 sec,"$36,000 ",Petrol,5,400 Nm
 KIA,SPORTAGE NIGHTFALL EDITION,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$33,000 ",Petrol,5,350 Nm
-HONDA,CIVIC TYPE R,I4,"1,996 cc",315 hp,272 km/h,5.7 sec,"$44,000 ",Petrol,5,400 Nm
+Honda,CIVIC TYPE R,I4,"1,996 cc",315 hp,272 km/h,5.7 sec,"$44,000 ",Petrol,5,400 Nm
 KIA,SPORTAGE PHEV,I4 + ELECTRIC,"1,600 cc / 13.8 kwh",261 hp,180 km/h,8.0 sec,"$41,000 ",Plug-in Hybrid,5,350 Nm
 KIA,SPORTAGE 2024(BASE MODEL),I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$26,000 ",Petrol,5,250 Nm
 KIA,SPORTAGE 2024(TOP TRIM),I4,"1,998 cc",240 hp,210 km/h,6.7 sec,"$38,000 ",Petrol,5,400 Nm
 KIA,SPORTAGE 2024(BASE AWD),I4,"2,480 cc",187 hp,200 km/h,8.3 sec,"$29,000 ",Petrol/AWD,5,250 Nm
 KIA,SPORTAGE X-LINE,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,"$32,500 ",Petrol,5,350 Nm
 KIA,SPORTAGE 2024(S TRIM),I4,"2,480 cc",187 hp,200 km/h,8.2 sec,"$28,000 ",Petrol,5,250 Nm
-HONDA,ACCORD,I4,"1,498 cc",192 hp,201 km/h,7.1 sec,"$29,400 ",Petrol,5,370 Nm
+Honda,ACCORD,I4,"1,498 cc",192 hp,201 km/h,7.1 sec,"$29,400 ",Petrol,5,370 Nm
 KIA,SPORTAGE 2024(HYBRID AWD),I4 + ELECTRIC,"1,600 cc / 1.49 kwh",227 hp,180 km/h,8.0 sec,"$37,000 ",Hybrid,5,350 Nm
 KIA,SPORTAGE 2024(PLUG-IN HYBRID AWD),I4 + ELECTRIC,"1,598 cc / 13.8 kwh",261 hp,180 km/h,7.9 sec,"$42,000 ",Plug-in Hybrid,5,350 Nm
 KIA,SPORTAGE 2024(X-PRO),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,"$36,000 ",Petrol,5,400 Nm
 KIA,SPORTAGE 2024(X-PRO PRESTIGE),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,"$38,000 ",Petrol,5,400 Nm
 KIA,SPORTAGE 2024(SX TURBO AWD),I4,"1,998 cc",240 hp,210 km/h,6.5 sec,"$40,000 ",Petrol/AWD,5,400 Nm
 KIA  ,SPORTAGE 2024(BASE FWD),I4,"2,480 cc",187 hp,200 km/h,8.5 sec,"$26,500 ",Petrol,5,250 Nm
-HONDA,CR-V,I4,"1,498 cc",190 hp,186 km/h,8.2 sec,"$30,000 ",Petrol/Hybrid,5,400 Nm
-HONDA,PILOT,V6,"3,471 cc",285 hp,209 km/h,6.3 sec,"$40,000 ",Petrol,8,360 Nm
-HONDA,CIVIC HATCHBACK,I4,"1,498 cc",180 hp,220 km/h,6.8 sec,"$26,350 ",Petrol,5,300 Nm
-TOYOTA,CAMRY,V6,"3,500 cc",301 hp,220 km/h,6.0 sec,"$27,000 ",Petrol/Hybrid,5,250 Nm
-TOYOTA,COROLLA,I4,"1,798 cc",139 hp,180 km/h,9.4 sec,"$22,500 ",Petrol/Hybrid,5,200 Nm
-TOYOTA,PRIUS,I4,"1,798 cc",121 hp,180 km/h,10.5 sec,"$26,700 ",Hybrid,5,142 Nm
-TOYOTA,RAV4,I4,"2,494 cc",203 hp,200 km/h,8.1 sec,"$27,100 ",Petrol/Hybrid,5,400 Nm
-TOYOTA,HIGHLANDER,V6,"3,456 cc",295 hp,220 km/h,7.2 sec,"$38,400 ",Petrol/Hybrid,7,370 Nm
-TOYOTA,4RUNNER ,V6,"3,956 cc",270 hp,200 km/h,7.5 sec,"$37,400 ",Petrol,5,400 Nm
-TOYOTA,TACOMA,I4,"2,694 cc",159 hp,180 km/h,9.5 sec,"$26,400 ",Petrol,5,400 Nm
-TOYOTA,TUNDRA,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$39,900 ",Petrol,5,650 Nm
-TOYOTA,AVALON,V6,"3,456 cc",301 hp,220 km/h,6.9 sec,"$41,400 ",Petrol,5,400 Nm
-TOYOTA,MIRAI,I4,"1,798 cc",151 hp,180 km/h,9.2 sec,"$52,400 ",Hydrogen,5,335 Nm
-TOYOTA,SIENNA,V6,"2,494 cc",245 hp,190 km/h,8.0 sec,"$44,150 ",Petrol/Hybrid,7,360 Nm
-TOYOTA,VENZA,I4,"2,494 cc",219 hp,200 km/h,7.5 sec,"$33,400 ",Hybrid,5,400 Nm
-TOYOTA,HIGHLANDER HYBRID,V6,"3,456 cc",240 hp,220 km/h,8.2 sec,"$40,400 ",Hybrid,7,350 Nm
-TOYOTA,LAND CRUISER PRADO,V6,"3,956 cc",282 hp,200 km/h,7.2 sec,"$49,400 ",Petrol/Diesel,7,450 Nm
-TOYOTA,TUNDRA HYBRID,V6,"3,456 cc",344 hp,220 km/h,6.2 sec,"$43,400 ",Hybrid,5,650 Nm
-TOYOTA,YARIS,I4,"1,496 cc",106 hp,180 km/h,11.2 sec,"$18,400 ",Petrol,5,150 Nm
-TOYOTA,C-HR,I4,"1,986 cc",144 hp,200 km/h,10.2 sec,"$24,400 ",Petrol/Hybrid,5,250 Nm
-TOYOTA,BZ4X,ELECTRIC,"64.8 kwh (Base Model),72.8 kwh (Higher End Model",218 hp,200 km/h,7.5 sec,"$43,400 ",Electric,5,330 Nm
-TOYOTA,CROWN,HYBRID,"2,494 cc",236 hp,200 km/h,7.6 sec,"$38,400 ",Hybrid,5,400 Nm
-TOYOTA,MR2,I4,"1,986 cc",168 hp,200 km/h,6.9 sec,"$29,000 ",Petrol,2,400 Nm
-TOYOTA,CELICA,I4,"1,986 cc",140 hp,200 km/h,8.5 sec,"$25,000 ",Petrol,5,250 Nm
-HONDA,CITY,I4,"1,497 cc",119 hp,180 km/h,10.2 sec,"$15,400 ",Petrol/Hybrid,5,145 Nm
-HONDA,CIVIC,I4,"1,996 cc",158 hp,200 km/h,8.5 sec,"$20,400 ",Petrol,5,400 Nm
-HYUNDAI,I10,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",87 hp,160 km/h,12.2 sec,"$12,400 ",Petrol,5,120 Nm
-HYUNDAI,I20,"1.4L,4-CYLINDER,INLINE-4(I4)","1,396 cc",99 hp,180 km/h,10.5 sec,"$15,400 ",Petrol/Hybrid,5,250 Nm
-HYUNDAI,ELANTRA,"2.0L,4-CYLINDER,INLINE-4(I4)","1,999 cc",147 hp,200 km/h,9.5 sec,"$18,400 ",Petrol/Hybrid,5,250 Nm
+Honda,CR-V,I4,"1,498 cc",190 hp,186 km/h,8.2 sec,"$30,000 ",Petrol/Hybrid,5,400 Nm
+Honda,PILOT,V6,"3,471 cc",285 hp,209 km/h,6.3 sec,"$40,000 ",Petrol,8,360 Nm
+Honda,CIVIC HATCHBACK,I4,"1,498 cc",180 hp,220 km/h,6.8 sec,"$26,350 ",Petrol,5,300 Nm
+Toyota,CAMRY,V6,"3,500 cc",301 hp,220 km/h,6.0 sec,"$27,000 ",Petrol/Hybrid,5,250 Nm
+Toyota,COROLLA,I4,"1,798 cc",139 hp,180 km/h,9.4 sec,"$22,500 ",Petrol/Hybrid,5,200 Nm
+Toyota,PRIUS,I4,"1,798 cc",121 hp,180 km/h,10.5 sec,"$26,700 ",Hybrid,5,142 Nm
+Toyota,RAV4,I4,"2,494 cc",203 hp,200 km/h,8.1 sec,"$27,100 ",Petrol/Hybrid,5,400 Nm
+Toyota,HIGHLANDER,V6,"3,456 cc",295 hp,220 km/h,7.2 sec,"$38,400 ",Petrol/Hybrid,7,370 Nm
+Toyota,4RUNNER ,V6,"3,956 cc",270 hp,200 km/h,7.5 sec,"$37,400 ",Petrol,5,400 Nm
+Toyota,TACOMA,I4,"2,694 cc",159 hp,180 km/h,9.5 sec,"$26,400 ",Petrol,5,400 Nm
+Toyota,TUNDRA,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,"$39,900 ",Petrol,5,650 Nm
+Toyota,AVALON,V6,"3,456 cc",301 hp,220 km/h,6.9 sec,"$41,400 ",Petrol,5,400 Nm
+Toyota,MIRAI,I4,"1,798 cc",151 hp,180 km/h,9.2 sec,"$52,400 ",Hydrogen,5,335 Nm
+Toyota,SIENNA,V6,"2,494 cc",245 hp,190 km/h,8.0 sec,"$44,150 ",Petrol/Hybrid,7,360 Nm
+Toyota,VENZA,I4,"2,494 cc",219 hp,200 km/h,7.5 sec,"$33,400 ",Hybrid,5,400 Nm
+Toyota,HIGHLANDER HYBRID,V6,"3,456 cc",240 hp,220 km/h,8.2 sec,"$40,400 ",Hybrid,7,350 Nm
+Toyota,LAND CRUISER PRADO,V6,"3,956 cc",282 hp,200 km/h,7.2 sec,"$49,400 ",Petrol/Diesel,7,450 Nm
+Toyota,TUNDRA HYBRID,V6,"3,456 cc",344 hp,220 km/h,6.2 sec,"$43,400 ",Hybrid,5,650 Nm
+Toyota,YARIS,I4,"1,496 cc",106 hp,180 km/h,11.2 sec,"$18,400 ",Petrol,5,150 Nm
+Toyota,C-HR,I4,"1,986 cc",144 hp,200 km/h,10.2 sec,"$24,400 ",Petrol/Hybrid,5,250 Nm
+Toyota,BZ4X,ELECTRIC,"64.8 kwh (Base Model),72.8 kwh (Higher End Model",218 hp,200 km/h,7.5 sec,"$43,400 ",Electric,5,330 Nm
+Toyota,CROWN,HYBRID,"2,494 cc",236 hp,200 km/h,7.6 sec,"$38,400 ",Hybrid,5,400 Nm
+Toyota,MR2,I4,"1,986 cc",168 hp,200 km/h,6.9 sec,"$29,000 ",Petrol,2,400 Nm
+Toyota,CELICA,I4,"1,986 cc",140 hp,200 km/h,8.5 sec,"$25,000 ",Petrol,5,250 Nm
+Honda,CITY,I4,"1,497 cc",119 hp,180 km/h,10.2 sec,"$15,400 ",Petrol/Hybrid,5,145 Nm
+Honda,CIVIC,I4,"1,996 cc",158 hp,200 km/h,8.5 sec,"$20,400 ",Petrol,5,400 Nm
+Hyundai,I10,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",87 hp,160 km/h,12.2 sec,"$12,400 ",Petrol,5,120 Nm
+Hyundai,I20,"1.4L,4-CYLINDER,INLINE-4(I4)","1,396 cc",99 hp,180 km/h,10.5 sec,"$15,400 ",Petrol/Hybrid,5,250 Nm
+Hyundai,ELANTRA,"2.0L,4-CYLINDER,INLINE-4(I4)","1,999 cc",147 hp,200 km/h,9.5 sec,"$18,400 ",Petrol/Hybrid,5,250 Nm
 MAHINDRA,XUV500,"2.2L,4-CYLINDER,INLINE-4(I4)","2,179 cc",155 hp,180 km/h,10.5 sec,"$18,400 ",Diesel,7,400 Nm
 MAHINDRA,SCORPIO,"2.2L,4-CYLINDER,INLINE-4(I4)","2,179 cc",140 hp,160 km/h,11.2 sec,"$16,400 ",Diesel,7,280 Nm
 MAHINDRA,THAR,"2.0L,4-CYLINDER,INLINE-4(I4)","1,997 cc",150 hp,180 km/h,10.5 sec,"$20,400 ",Petrol/Diesel,4,320 Nm
 MARUTI SUZUKI,SWIFT,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",83 hp,160 km/h,12.2 sec,"$10,400 ",Petrol,5,113 Nm
 MARUTI SUZUKI,DZIRE,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc",83 hp,160 km/h,12.2 sec,"$11,400 ",Petrol/Diesel,5,113 Nm
 MARUTI SUZUKI,BREZZA,"1.5L,4-CYLINDER,INLINE(I4)","1,462 cc",103 hp,180 km/h,11.5 sec,"$14,400 ",Petrol,5,200 Nm
-TOYOTA,PRIUS PRIME,"2.0L,4-CYLINDER,WITH HYBRID SYSTEM","1,998 cc",220 hp,180 km/h,6.7 sec,"$31,100 ",Plug-in Hybrid,5,220 Nm
-TOYOTA,GR COROLLA,"1.6L,TURBOCHARGED INLINE-3","1,618 cc",300 hp,230 km/h,5. 0 sec,"$36,995 ",Petrol,5,370 Nm
-TOYOTA,LAND CRUISER 300,"3.3L,V6,TWIN TURBO DIESEL","3,346 cc",305 hp,210 km/h,6.8 sec,"$58,500 ",Petrol/Diesel,7,650 Nm
-TOYOTA,TUNDRA I-FORCE MAX,"3.5L,V6,HYBRID TWIN-TURBO","3,445 cc",437 hp,180 km/h,6.2 sec,"$56,000 ",Hybrid,5,750 Nm
-TOYOTA,COROLLA HATCHBACK XSE,"2.0L,INLINE-4","1,987 cc",169 hp,190 km/h,8.2 sec,"$25,390 ",Petrol,5,250 Nm
-TOYOTA,MIRAI,"HYDROGEN FUEL CELL,ELECTRIC MOTOR",1.24 kwh,152 hp,180 km/h,9.0 sec,"$49,500 ",Hydrogen,5,335 Nm
-TOYOTA,HILUX GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",224 hp,170 km/h,10.0 sec,"$50,000 ",Petrol/Diesel,5,500 Nm
-TOYOTA,ALPHARD EXECUTIVE LOUNGE,"2.5L,INLINE-4,HYBRID,OR 3.5L,V6","HYBRID(2,494 cc),V6(3,456 cc)",296 hp,180 km/h,8.5 sec,"$60,000 ",Petrol,7,400 Nm
-TOYOTA,FORTUNER GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",204 hp,175 km/h,10.5 sec,"$55,000 ",Diesel/Petrol,7,500 Nm
-TOYOTA,INNOVA HYCROSS,2.0L HYBRID,"1,987 cc",184 hp,165 km/h,9.5 sec,"$40,000 ",Hybrid,7,250 Nm
-TOYOTA,COASTER,"4.0L,DIESEL","4,009 cc",134 hp,120 km/h,N/A,"$70,000 ",Diesel,20,500 Nm
-TOYOTA,URBAN CRUISER TAISOR,"1.5L,HYBRID","1,490 cc",114 hp,170 km/h,11 sec,"$25,000 ",Petrol,5,130 Nm
-TOYOTA,AYGO X,"1.0L,INLINE-3",998 cc,71 hp,160 km/h,14.8 sec,"$18,000 ",Petrol,4,93 Nm
-TOYOTA,HILUX REVO ROCCO,"2.8L,TURBO,DIESEL","2,755 cc",204 hp ,175 km/h,10.0 sec,"$50,000 ",Diesel,5,500 Nm
-TOYOTA,PROACE VERSO ELECTRIC,ELECTRIC MOTOR,75 KWH,136 hp,130 km/h,13.5 sec,"$55,000 ",Electric,7,280 Nm
-TOYOTA,CENTURY SUV,"3.5L,V6,PLUG IN HYBRID","3,456 cc",406 hp,200 km/h,6.0 sec,"$170,000 ",Petrol,5,500 Nm
-TOYOTA,COROLLA SEDAN HYBRID,"1.8L,HYBRID","1,798 cc",134 hp,180 km/h,10.0 sec,"$24,000 ",Hybrid,5,300 Nm
-TOYOTA,BZ3,ELECTRIC MOTOR,65 KWH,241 hp,160 km/h,7.5 sec,"$35,000 ",Electric,5,340 Nm
-TOYOTA,GR YARIS,"1.6L,TURBOCHARGED INLINE-3","1,618 cc",268 hp,230 km/h,5.5 sec,"$45,000 ",Petrol,4,390 Nm
-HYUNDAI,SANTA FE,1.6L PETROL + PLUG IN HYBRID SYSTEM,"1,600 cc",253 hp,180 km/h,9.3 sec,"$50,000 ",Petrol/Hybrid,7,420 Nm
-HYUNDAI,IONIQ 5,ELECTRIC MOTOR,72.6 KWH,225 hp,185 km/h,7.4 sec,"$41,000 ",Electric,5,350 Nm
-HYUNDAI,Santa Cruz,2.5L Turbocharged Inline-4,"2,500 cc",281 hp,215 km/h,6.5 sec,"$40,799 ",Petrol,5,400 Nm
-HYUNDAI,Kona,1.6L PETROL ,"1,591 cc",147 hp,185 km/h,10. 5 sec,"$20,500 ",Petrol/EV,5,400 Nm
-HYUNDAI,Elantra,2.0L Inline-4,"2,000 cc",147 hp,210 km/h,8.3 sec,"$19,950 ",Petrol/Hybrid,5,250 Nm
-Nissan,Urvan,2.5L Turbo Diese,,2488 cc,140 km/h,14.0 sec,"$28,000 ",Diesel,15,356 Nm
-HYUNDAI,IONIQ 6,Electric Motor,53.6 kwh(Standard Range) / 77.4 kwh(Long Range),320 hp,185 km/h,5.2 sec,"$41,450 ",Electric,5,350 Nm
-HYUNDAI,Tucson,2.5L Inline-4,"2,500 cc",187 hp,180 km/h,6.1 sec,"$30,500 ",Petrol/Hybrid,5,400 Nm
-HYUNDAI,Palisade,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,7,355 Nm
-HYUNDAI,Sonata,2.5L Inline-4,"2,500 cc",191 hp,240 km/h,8 sec,"$25,000 ",Petrol/Hybrid,5,250 Nm
-HYUNDAI,Accent,1.6L Inline-4,"1,600 cc",120 hp,180 km/h,9.8 sec,"$15,000 ",Petrol,5,151 Nm
-HYUNDAI,Venue,1.6L Inline-4,"1,600 cc",121 hp,180 km/h,9.5 sec,"$18,000 ",Petrol,5,240 Nm
-HYUNDAI,KONA Electric,Electric Motor,39.2 kwh,200 hp,200 km/h,6.1 sec,"$40,000 ",Electric,5,395 Nm
-HYUNDAI,Veloster,2.0L Inline-4,"2,000 cc",275 hp,220 km/h,6 sec,"$25,000 ",Petrol,4,264 Nm
-HYUNDAI,NEXO,Electric Motor,1.56 kwh,161 hp,180 km/h,7.8 sec,"$38,000 ",Hydrogen,5,400 Nm
-HYUNDAI,Ioniq,1.6L Inline-4,"1,600 cc",139 hp,160 km/h,8.5 sec,"$18,000 ",Hybrid/Electric,5,295 Nm
-HYUNDAI,Genesis,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,5,400 Nm
-HYUNDAI,Azera,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,250 Nm
-HYUNDAI,Equus,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,400 Nm
-HYUNDAI,Tiburon,2.0L Inline-4,"2,000 cc",160 hp,200 km/h,8.2 sec,"$19,000 ",Petrol,4,320 Nm
-HYUNDAI,Elantra GT,1.6L Turbo GDI 4-cylinder,"2,000 cc",160 hp,200 km/h,8.3 sec,"$22,000 ",Petrol,5,320 Nm
+Toyota,PRIUS PRIME,"2.0L,4-CYLINDER,WITH HYBRID SYSTEM","1,998 cc",220 hp,180 km/h,6.7 sec,"$31,100 ",Plug-in Hybrid,5,220 Nm
+Toyota,GR COROLLA,"1.6L,TURBOCHARGED INLINE-3","1,618 cc",300 hp,230 km/h,5. 0 sec,"$36,995 ",Petrol,5,370 Nm
+Toyota,LAND CRUISER 300,"3.3L,V6,TWIN TURBO DIESEL","3,346 cc",305 hp,210 km/h,6.8 sec,"$58,500 ",Petrol/Diesel,7,650 Nm
+Toyota,TUNDRA I-FORCE MAX,"3.5L,V6,HYBRID TWIN-TURBO","3,445 cc",437 hp,180 km/h,6.2 sec,"$56,000 ",Hybrid,5,750 Nm
+Toyota,COROLLA HATCHBACK XSE,"2.0L,INLINE-4","1,987 cc",169 hp,190 km/h,8.2 sec,"$25,390 ",Petrol,5,250 Nm
+Toyota,MIRAI,"HYDROGEN FUEL CELL,ELECTRIC MOTOR",1.24 kwh,152 hp,180 km/h,9.0 sec,"$49,500 ",Hydrogen,5,335 Nm
+Toyota,HILUX GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",224 hp,170 km/h,10.0 sec,"$50,000 ",Petrol/Diesel,5,500 Nm
+Toyota,ALPHARD EXECUTIVE LOUNGE,3.5L V6,"3,456 cc",296 hp,180 km/h,8.5 sec,"$60,000 ",Petrol,7,400 Nm
+Toyota,FORTUNER GR SPORT,"2.8L,TURBO,DIESEL","2,755 cc",204 hp,175 km/h,10.5 sec,"$55,000 ",Diesel/Petrol,7,500 Nm
+Toyota,INNOVA HYCROSS,2.0L HYBRID,"1,987 cc",184 hp,165 km/h,9.5 sec,"$40,000 ",Hybrid,7,250 Nm
+Toyota,COASTER,"4.0L,DIESEL","4,009 cc",134 hp,120 km/h,N/A,"$70,000 ",Diesel,20,500 Nm
+Toyota,URBAN CRUISER TAISOR,"1.5L,HYBRID","1,490 cc",114 hp,170 km/h,11 sec,"$25,000 ",Petrol,5,130 Nm
+Toyota,AYGO X,"1.0L,INLINE-3",998 cc,71 hp,160 km/h,14.8 sec,"$18,000 ",Petrol,4,93 Nm
+Toyota,HILUX REVO ROCCO,"2.8L,TURBO,DIESEL","2,755 cc",204 hp ,175 km/h,10.0 sec,"$50,000 ",Diesel,5,500 Nm
+Toyota,PROACE VERSO ELECTRIC,ELECTRIC MOTOR,75 KWH,136 hp,130 km/h,13.5 sec,"$55,000 ",Electric,7,280 Nm
+Toyota,CENTURY SUV,"3.5L,V6,PLUG IN HYBRID","3,456 cc",406 hp,200 km/h,6.0 sec,"$170,000 ",Petrol,5,500 Nm
+Toyota,COROLLA SEDAN HYBRID,"1.8L,HYBRID","1,798 cc",134 hp,180 km/h,10.0 sec,"$24,000 ",Hybrid,5,300 Nm
+Toyota,BZ3,ELECTRIC MOTOR,65 KWH,241 hp,160 km/h,7.5 sec,"$35,000 ",Electric,5,340 Nm
+Toyota,GR YARIS,"1.6L,TURBOCHARGED INLINE-3","1,618 cc",268 hp,230 km/h,5.5 sec,"$45,000 ",Petrol,4,390 Nm
+Hyundai,SANTA FE,1.6L PETROL + PLUG IN HYBRID SYSTEM,"1,600 cc",253 hp,180 km/h,9.3 sec,"$50,000 ",Petrol/Hybrid,7,420 Nm
+Hyundai,IONIQ 5,ELECTRIC MOTOR,72.6 KWH,225 hp,185 km/h,7.4 sec,"$41,000 ",Electric,5,350 Nm
+Hyundai,Santa Cruz,2.5L Turbocharged Inline-4,"2,500 cc",281 hp,215 km/h,6.5 sec,"$40,799 ",Petrol,5,400 Nm
+Hyundai,Kona,1.6L PETROL ,"1,591 cc",147 hp,185 km/h,10. 5 sec,"$20,500 ",Petrol/EV,5,400 Nm
+Hyundai,Elantra,2.0L Inline-4,"2,000 cc",147 hp,210 km/h,8.3 sec,"$19,950 ",Petrol/Hybrid,5,250 Nm
+Nissan,Urvan,2.5L Turbo Diese,"2,953 cc",2488 cc,140 km/h,14.0 sec,"$28,000 ",Diesel,15,356 Nm
+Hyundai,IONIQ 6,Electric Motor,53.6 kwh,320 hp,185 km/h,5.2 sec,"$41,450 ",Electric,5,350 Nm
+Hyundai,Tucson,2.5L Inline-4,"2,500 cc",187 hp,180 km/h,6.1 sec,"$30,500 ",Petrol/Hybrid,5,400 Nm
+Hyundai,Palisade,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,7,355 Nm
+Hyundai,Sonata,2.5L Inline-4,"2,500 cc",191 hp,240 km/h,8 sec,"$25,000 ",Petrol/Hybrid,5,250 Nm
+Hyundai,Accent,1.6L Inline-4,"1,600 cc",120 hp,180 km/h,9.8 sec,"$15,000 ",Petrol,5,151 Nm
+Hyundai,Venue,1.6L Inline-4,"1,600 cc",121 hp,180 km/h,9.5 sec,"$18,000 ",Petrol,5,240 Nm
+Hyundai,KONA Electric,Electric Motor,39.2 kwh,200 hp,200 km/h,6.1 sec,"$40,000 ",Electric,5,395 Nm
+Hyundai,Veloster,2.0L Inline-4,"2,000 cc",275 hp,220 km/h,6 sec,"$25,000 ",Petrol,4,264 Nm
+Hyundai,NEXO,Electric Motor,1.56 kwh,161 hp,180 km/h,7.8 sec,"$38,000 ",Hydrogen,5,400 Nm
+Hyundai,Ioniq,1.6L Inline-4,"1,600 cc",139 hp,160 km/h,8.5 sec,"$18,000 ",Hybrid/Electric,5,295 Nm
+Hyundai,Genesis,3.8L V6,"3,800 cc",291 hp,240 km/h,6.3 sec,"$52,000 ",Petrol,5,400 Nm
+Hyundai,Azera,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,250 Nm
+Hyundai,Equus,3.3L V6,"3,300 cc",278 hp,240 km/h,6.5 sec,"$55,000 ",Petrol,5,400 Nm
+Hyundai,Tiburon,2.0L Inline-4,"2,000 cc",160 hp,200 km/h,8.2 sec,"$19,000 ",Petrol,4,320 Nm
+Hyundai,Elantra GT,1.6L Turbo GDI 4-cylinder,"2,000 cc",160 hp,200 km/h,8.3 sec,"$22,000 ",Petrol,5,320 Nm
 Volkswagen,Golf,1.5L Turbo I4 / Electric,1498 cc / 40 - 58 kWh,110 - 320 hp,210 km/h,8.5 sec,"$23,000 ",Petrol,5,250 Nm
 Volkswagen,Passat,2.0L Turbo I4,1984 cc,150 - 280 hp,210 km/h,7.8 sec,"$25,000 ",Petrol,5,250 Nm
 Volkswagen,Tiguan,2.0L Turbo I4,1984 cc,150 - 230 hp,209 km/h,8.5 sec,"$28,505 ","Petrol, Hybrid",7,300 Nm
@@ -518,7 +518,7 @@ Nissan,President,4.5L V8,4494 cc,280 HP,210 km/h,7.5 sec,"$70,000 ",Petrol,5,400
 Nissan,Cima,4.1L V8,4130 cc,270 HP,210 km/h,8.0 sec,"$60,000 ",Petrol,5,390 Nm
 Nissan,Leopard J. Ferie,3.0L V6 Turbo,2960 cc,255 HP,215 km/h,6.5 sec,"$45,000 ",Petrol,5,340 Nm
 Nissan,Gloria Gran Turismo,3.0L V6 Turbo,2960 cc,255 HP,220 km/h,6.5 sec,"$50,000 ",Petrol,5,340 Nm
-Nissan,Infiniti Q45*,4.5L V8,4494 cc,340 HP,240 km/h,6.2 sec,"$50,000 ",Petrol,5,450 Nm
+Nissan,Infiniti Q45,4.5L V8,4494 cc,340 HP,240 km/h,6.2 sec,"$50,000 ",Petrol,5,450 Nm
 Nissan,Datsun 240Z,2.4L Inline-6,2393 cc,151 HP,210 km/h,8.0 sec,"$45,000 ",Petrol,2,198 Nm
 Nissan,280ZX,2.8L Inline-6,2753 cc,145 HP,205 km/h,9.5 sec,"$35,000 ",Petrol,2,210 Nm
 Nissan,Silvia S13,1.8L Turbo Inline-4,1809 cc,175 HP,215 km/h,6.8 sec,"$20,000 ",Petrol,4,230 Nm
@@ -682,7 +682,7 @@ Jeep,Grand Cherokee 4xe,2.0L Turbo PHEV,17.3 kWh,375 hp,210 km/h,6.0 sec,"$59,86
 Jeep,Wrangler 4xe,2.0L Turbo PHEV,17.3 kWh,375 hp,180 km/h,6.4 sec,"$50,695 ",Hybrid,5,637 Nm
 Jeep,Compass 4xe,1.3L Turbo PHEV,11.4 kWh,240 hp,200 km/h,7.3 sec,"$46,500 ",Hybrid,5,270 Nm
 Jeep,Renegade 4xe,1.3L Turbo PHEV,11.4 kWh,240 hp,200 km/h,7.5 sec,"$44,500 ",Hybrid,5,270 Nm
-Mazda,Mazda2,1.5L 4-Cylinder,"1,500 cc",108 hp,180 km/h,10.2 sec,"$17,000-$20,000",Petrol,5,142 Nm
+Mazda,Mazda2,1.5L 4-Cylinder,"1,500 cc",108 hp,180 km/h,10.2 sec,"$17,000 ",Petrol,5,142 Nm
 Jeep,Wagoneer S (Electric),Dual Electric Motors,100 kWh,600 hp,177 km/h,4.5 sec,"$80,000 ",Electric,5,850 Nm
 Jeep,Gladiator Mojave Edition,3.6L V6 Pentastar Gasoline,3600 cc,285 hp,177 km/h,8.6 sec,"$51,570 ",Petrol,5,353 Nm
 Jeep,Grand Cherokee Summit Reserve,5.7L V8 Gasoline,5700 cc,357 hp,190 km/h,7.3 sec,"$66,575 ",Petrol,5,529 Nm
@@ -993,8 +993,8 @@ Peugeot,208 Allure Premium,Inline-4,"1,199 cc",130 hp,200 km/h,9.5 sec,"$28,000 
 Peugeot,Partner Tepee,Inline-4,"1,560 cc",100 hp,170 km/h,12.0 sec,"$25,000 ",Diesel,5,260 Nm
 Peugeot,Expert L2H1,Inline-4,"1,997 cc",120 hp,160 km/h,13.0 sec,"$30,000 ",Diesel,3,320 Nm
 Peugeot,Boxer L2H2,Inline-4,"2,200 cc",130 hp,140 km/h,14.0 sec,"$35,000 ",Diesel,3,350 Nm
-Peugeot,Partner Electric,Electric Motor,-,136 hp,130 km/h,9.0 sec,"$40,000 ",Electric,5,260 Nm
-Peugeot,Expert Electric,Electric Motor,-,136 hp,130 km/h,9.5 sec,"$45,000 ",Electric,5,260 Nm
+Peugeot,Partner Electric,Electric Motor,22.5 kWh,136 hp,130 km/h,9.0 sec,"$40,000 ",Electric,5,260 Nm
+Peugeot,Expert Electric,Electric Motor,75 kWh,136 hp,130 km/h,9.5 sec,"$45,000 ",Electric,5,260 Nm
 Peugeot,208 PSE (Peugeot Sport Engineered),Hybrid I4,"1,598 cc (petrol) + Electric Motor",225 hp,250 km/h,5.5 sec,"$45,000 ",Hybrid,5,360 Nm
 Peugeot,308 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.0 sec,"$55,000 ",Hybrid,5,520 Nm
 Peugeot,508 PSE,Hybrid I4,"1,598 cc (petrol) + Electric Motor",360 hp,250 km/h,5.2 sec,"$60,000 ",Hybrid,5,520 Nm
@@ -1013,27 +1013,27 @@ Peugeot,508 Saloon,Inline-4,"1,598 cc",180 hp,210 km/h,8.6 sec,"$37,000 ",Petrol
 Peugeot,308 Saloon,Inline-4,"1,199 cc",130 hp,200 km/h,9.0 sec,"$28,000 ",Petrol,5,230 Nm
 Peugeot,301 Sedan,Inline-4,"1,199 cc",82 hp,180 km/h,12.0 sec,"$20,000 ",Petrol,5,115 Nm
 Peugeot,208 Sedan,Inline-4,"1,199 cc",100 hp,190 km/h,11.2 sec,"$22,000 ",Petrol,5,205 Nm
-Ford,Fusion (Mondeo),1.5L EcoBoost / 2.0L Hybrid,"1,500 - 2,000 cc",160 - 250 hp,220 km/h,7.5 sec,"$25,000 - $40,000",Petrol/Hybrid,5,200 - 400 Nm
-Ford,Taurus,3.5L V6 / 2.0L EcoBoost,"2,000 - 3,500 cc",200 - 365 hp,220 km/h,6.5 sec,"$30,000 - $45,000",Petrol,5,300 - 500 Nm
-Ford,Fiesta,1.0L EcoBoost / 1.5L,"1,000 - 1,500 cc",85 - 200 hp,200 km/h,7.0 sec,"$15,000 - $25,000",Petrol,5,130 - 290 Nm
-Ford,Focus,1.0L EcoBoost / 1.5L / 2.0L,"1,000 - 2,000 cc",120 - 300 hp,220 km/h,6.5 sec,"$20,000 - $30,000",Petrol,5,150 - 400 Nm
-Ford,KA+,1.2L Petrol,"1,200 cc",70 - 85 hp,165 km/h,10.5 sec,"$12,000 - $15,000",Petrol,5,100 - 140 Nm
-Ford,EcoSport,1.0L Turbo Inline-3 / 2.0L,"1,000 - 2,000 cc",123 - 166 hp,180 km/h,9.0 sec,"$20,000 - $25,000",Petrol,5,170 - 200 Nm
-Ford,Escape (Kuga),1.5L EcoBoost / 2.5L Hybrid,"1,500 - 2,500 cc",181 - 200 hp,190 km/h,7.5 sec,"$25,000 - $38,000",Petrol/Hybrid,5,230 - 200 Nm
-Ford,Edge,2.0L EcoBoost / 2.7L V6,"2,000 - 2,700 cc",250 - 335 hp,200 km/h,6.5 sec,"$35,000 - $45,000",Petrol,5,400 - 475 Nm
-Ford,Explorer,2.3L EcoBoost / 3.0L V6,"2,300 - 3,000 cc",300 - 400 hp,200 km/h,6.0 sec,"$35,000 - $55,000",Petrol,7,420 - 500 Nm
-Ford,Expedition,3.5L EcoBoost / 5.4L V8,"3,500 - 5,400 cc",375 - 400 hp,180 km/h,6.5 sec,"$50,000 - $75,000",Petrol,8,650 - 800 Nm
-Ford,Bronco,2.3L EcoBoost / 2.7L V6,"2,300 - 2,700 cc",275 - 310 hp,200 km/h,7.5 sec,"$30,000 - $55,000",Petrol,4,400 - 600 Nm
-Ford,Bronco Sport,1.5L EcoBoost / 2.0L EcoBoost,"1,500 - 2,000 cc",181 - 250 hp,185 km/h,7.0 sec,"$26,000 - $38,000",Petrol,5,250 - 375 Nm
-Ford,F-150,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,"3,300 - 5,000 cc",290 - 450 hp,200 km/h,5.0 - 6.5 sec,"$35,000 - $75,000",Petrol/Diesel,5,400 - 700 Nm
-Ford,F-250 Super Duty,6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel,"6,200 - 7,300 cc",385 - 475 hp,180 km/h,6.5 - 7.0 sec,"$40,000 - $70,000",Petrol/Diesel,5,"700 - 1,050 Nm"
-Ford,F-350 Super Duty,6.7L Turbo-Diesel / 7.3L V8,"6,700 - 7,300 cc",450 - 475 hp,180 km/h,7.0 - 8.0 sec,"$45,000 - $75,000",Diesel,5,"1,050 - 1,200 Nm"
-Ford,Maverick,2.5L Hybrid / 2.0L EcoBoost,"2,500 - 2,000 cc",191 - 250 hp,180 km/h,6.5 - 8.0 sec,"$22,000 - $30,000",Hybrid/Petrol,5,250 - 380 Nm
-Ford,Ranger,2.3L Turbo Inline-4 / 2.7L V6,"2,300 - 2,700 cc",270 - 325 hp,180 km/h,6.0 - 7.0 sec,"$25,000 - $45,000",Petrol/Diesel,5,400 - 540 Nm
-Ford,Mustang Mach-E,Electric Motor,Battery (68-98 kWh),290-480 hp,180 km/h,3.5 sec (GT Model),"$43,000 - $61,000",Electric,5,430 Nm (GT Model)
-Ford,F-150 Lightning,Electric Motor,Battery (98 kWh),452 hp,180 km/h,4.5 sec,"$40,000 - $90,000",Electric,5,1051 Nm
-Ford,Escape Hybrid,2.5L Inline-4 + Electric,"2,500 cc",200 hp,180 km/h,7.7 sec,"$28,000 - $38,000",Hybrid,5,210 Nm (Electric)
-Ford,Explorer Hybrid,3.3L V6 + Electric,"3,300 cc",318 hp,180 km/h,7.5 sec,"$50,000 - $55,000",Hybrid,7,500 Nm
+Ford,Fusion (Mondeo),1.5L EcoBoost,"1,500 cc",160 hp,220 km/h,7.5 sec,"$25,000 ",Petrol,5,200 Nm
+Ford,Taurus,2.0L EcoBoost,"2,000 cc",200 hp,220 km/h,6.5 sec,"$30,000 ",Petrol,5,300 Nm
+Ford,Fiesta,1.0L EcoBoost,"1,000 cc",85hp,200 km/h,7.0 sec,"$15,000 ",Petrol,5,130 Nm
+Ford,Focus,1.0L EcoBoost / 1.5L / 2.0L,"1,000 - 2,000 cc",120 - 300 hp,220 km/h,6.5 sec,"$20,000 ",Petrol,5,150 - 400 Nm
+Ford,KA+,1.2L Petrol,"1,200 cc",70 - 85 hp,165 km/h,10.5 sec,"$12,000 ",Petrol,5,100 - 140 Nm
+Ford,EcoSport,1.0L Turbo Inline-3 / 2.0L,"1,000 - 2,000 cc",123 - 166 hp,180 km/h,9.0 sec,"$20,000 ",Petrol,5,170 - 200 Nm
+Ford,Escape (Kuga),1.5L EcoBoost / 2.5L Hybrid,"1,500 - 2,500 cc",181 - 200 hp,190 km/h,7.5 sec,"$25,000 ",Petrol/Hybrid,5,230 - 200 Nm
+Ford,Edge,2.0L EcoBoost / 2.7L V6,"2,000 - 2,700 cc",250 - 335 hp,200 km/h,6.5 sec,"$35,000 ",Petrol,5,400 - 475 Nm
+Ford,Explorer,2.3L EcoBoost / 3.0L V6,"2,300 - 3,000 cc",300 - 400 hp,200 km/h,6.0 sec,"$35,000 ",Petrol,7,420 - 500 Nm
+Ford,Expedition,3.5L EcoBoost / 5.4L V8,"3,500 - 5,400 cc",375 - 400 hp,180 km/h,6.5 sec,"$50,000 ",Petrol,8,650 - 800 Nm
+Ford,Bronco,2.3L EcoBoost / 2.7L V6,"2,300 - 2,700 cc",275 - 310 hp,200 km/h,7.5 sec,"$30,000 ",Petrol,4,400 - 600 Nm
+Ford,Bronco Sport,1.5L EcoBoost / 2.0L EcoBoost,"1,500 - 2,000 cc",181 - 250 hp,185 km/h,7.0 sec,"$26,000 ",Petrol,5,250 - 375 Nm
+Ford,F-150,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,"3,300 - 5,000 cc",290 - 450 hp,200 km/h,5.0 - 6.5 sec,"$35,000 ",Petrol/Diesel,5,400 - 700 Nm
+Ford,F-250 Super Duty,6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel,"6,200 - 7,300 cc",385 - 475 hp,180 km/h,6.5 - 7.0 sec,"$40,000 ",Petrol/Diesel,5,"700 - 1,050 Nm"
+Ford,F-350 Super Duty,6.7L Turbo-Diesel / 7.3L V8,"6,700 - 7,300 cc",450 - 475 hp,180 km/h,7.0 - 8.0 sec,"$45,000 ",Diesel,5,"1,050 - 1,200 Nm"
+Ford,Maverick,2.5L Hybrid / 2.0L EcoBoost,"2,500 - 2,000 cc",191 - 250 hp,180 km/h,6.5 - 8.0 sec,"$22,000 ",Hybrid/Petrol,5,250 - 380 Nm
+Ford,Ranger,2.3L Turbo Inline-4,"2,300 cc",270hp,180 km/h,7.0 sec,"$25,000 ",Petrol,5,400 Nm
+Ford,Mustang Mach-E,Electric Motor,Battery (68-98 kWh),290-480 hp,180 km/h,3.5 sec (GT Model),"$61,000 ",Electric,5,430 Nm (GT Model)
+Ford,F-150 Lightning,Electric Motor,Battery (98 kWh),452 hp,180 km/h,4.5 sec,"$90,000 ",Electric,5,1051 Nm
+Ford,Escape Hybrid,2.5L Inline-4 + Electric,"2,500 cc",200 hp,180 km/h,7.7 sec,"$28,000 ",Hybrid,5,210 Nm (Electric)
+Ford,Explorer Hybrid,3.3L V6 + Electric,"3,300 cc",318 hp,180 km/h,7.5 sec,"$50,000 ",Hybrid,7,500 Nm
 Ford,Mustang,5.0L V8,"5,000 cc",450 hp,250 km/h,4.3 sec,"$55,000 ",Petrol,4,530 Nm
 Ford,GT,3.5L Twin-Turbo V6,"3,500 cc",660 hp,348 km/h,3.0 sec,"$500,000 ",Petrol,2,746 Nm
 Ford,Focus ST,2.3L Turbo Inline-4,"2,300 cc",280 hp,250 km/h,5.7 sec,"$30,000 ",Petrol,5,420 Nm
@@ -1066,149 +1066,148 @@ Ford,Ranger (2024),I4 Turbo Diesel,"2,000 cc",210 hp,180 km/h,8.0 sec,"$40,000 "
 Ford,Escape Plug-in Hybrid (2024),I4 Hybrid,"2,500 cc (petrol) + Electric Motor",221 hp,190 km/h,7.5 sec,"$38,000 ",Hybrid,5,210 Nm
 Ford,Bronco (2024),V6 EcoBoost,"2,700 cc",310 hp,200 km/h,6.7 sec,"$45,000 ",Petrol,5,542 Nm
 Ford,Explorer (2024),V6 Turbocharged,"3,000 cc",400 hp,230 km/h,5.9 sec,"$55,000 ",Petrol,7,563 Nm
-Mitsubishi,Mirage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$16,000 - $18,000",Petrol,5,100 Nm
-Mitsubishi,Mirage G4,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$17,000 - $19,000",Petrol,5,100 Nm
-Mitsubishi,Outlander,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$28,000 - $35,000",Petrol,7,245 Nm
-Mitsubishi,Outlander PHEV,2.4L Hybrid,"2,400 cc / 20 kWh battery",248 hp,170 km/h,10.5 sec,"$39,000 - $43,000",Hybrid,5,300 Nm
-Mitsubishi,Eclipse Cross,1.5L Turbo,"1,500 cc",152 hp,180 km/h,9.8 sec,"$25,000 - $28,000",Petrol,5,250 Nm
-Mitsubishi,ASX (Outlander Sport),2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$23,000 - $26,000",Petrol,5,197 Nm
-Mitsubishi,Pajero,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$40,000 - $45,000",Diesel,7,441 Nm
-Mitsubishi,Pajero Sport,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 - $40,000",Diesel,7,430 Nm
-Mitsubishi,Triton (L200),2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$25,000 - $35,000",Diesel,5,430 Nm
-Mitsubishi,Lancer Evolution X,2.0L Turbocharged,"2,000 cc",291 hp,240 km/h,5.0 sec,"$40,000 - $50,000",Petrol,5,407 Nm
-Mitsubishi,i-MiEV (Electric),Electric Motor,16 kWh battery,66 hp,130 km/h,15.0 sec,"$23,000 - $26,000",Electric,4,196 Nm
-Mitsubishi,Xpander,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,13.5 sec,"$20,000 - $25,000",Petrol,7,141 Nm
-Mitsubishi,Delica D:5,2.2L Diesel Turbo,"2,200 cc",145 hp,175 km/h,11.0 sec,"$35,000 - $40,000",Diesel,7,360 Nm
-Mitsubishi,Colt,1.1L / 1.5L MIVEC,"1,100 - 1,500 cc",75 - 150 hp,180 km/h,9.0 - 12.0 sec,"$15,000 - $20,000",Petrol,5,100 - 180 Nm
-Mitsubishi,Grandis,2.4L MIVEC,"2,400 cc",165 hp,190 km/h,11.0 sec,"$25,000 - $30,000",Petrol,7,217 Nm
-Mitsubishi,Outlander Black Edition,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$32,000 - $35,000",Petrol,7,245 Nm
-Mitsubishi,Outlander SEL,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$31,000 - $34,000",Petrol,7,245 Nm
-Mitsubishi,Outlander SE,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$29,000 - $32,000",Petrol,7,245 Nm
-Mitsubishi,Eclipse Cross Black Edition,1.5L Turbo,"1,500 cc",152 hp,180 km/h,9.8 sec,"$28,000 - $30,000",Petrol,5,250 Nm
-Mitsubishi,ASX Exceed,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$26,000 - $28,000",Petrol,5,197 Nm
-Mitsubishi,Triton Athlete,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$27,000 - $35,000",Diesel,5,430 Nm
-Mitsubishi,Pajero Final Edition,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 - $50,000",Diesel,7,441 Nm
-Mitsubishi,L200 Barbarian X,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$30,000 - $35,000",Diesel,5,430 Nm
-Mitsubishi,Space Star,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$15,000 - $17,000",Petrol,5,100 Nm
-Mitsubishi,Lancer EX,1.6L MIVEC / 2.0L,"1,600 - 2,000 cc",117 - 148 hp,200 km/h,10.0 sec,"$20,000 - $25,000",Petrol,5,154 - 197 Nm
-Mitsubishi,Montero Sport,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 - $40,000",Diesel,7,430 Nm
-Mitsubishi,Attrage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 - $17,000",Petrol,5,100 Nm
-Mitsubishi,RVR SE,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.5 sec,"$23,000 - $25,000",Petrol,5,197 Nm
-Mitsubishi,Delica Van,2.0L Diesel / 2.2L Diesel,"2,000 - 2,200 cc",145 hp,175 km/h,11.5 sec,"$30,000 - $35,000",Diesel,7,360 Nm
-Mitsubishi,Canter (Truck),3.0L Diesel,"3,000 cc",150 hp,120 km/h,N/A,"$35,000 - $45,000",Diesel,2,370 Nm
-Mitsubishi,Lancer GLX,1.6L MIVEC,"1,600 cc",115 hp,190 km/h,11.5 sec,"$17,000 - $20,000",Petrol,5,154 Nm
-Mitsubishi,Pajero GLS,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 - $50,000",Diesel,7,441 Nm
-Mitsubishi,Xpander Cross,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,12.0 sec,"$20,000 - $25,000",Petrol,7,141 Nm
-Mitsubishi,Eclipse Cross PHEV,2.4L PHEV,"2,400 cc",188 hp,180 km/h,10.5 sec,"$35,000 - $40,000",Plug-in Hybrid,5,199 Nm
-Mitsubishi,Outlander ES,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$28,000 - $30,000",Petrol,7,245 Nm
-Mitsubishi,Montero GLX,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 - $40,000",Diesel,7,430 Nm
-Mitsubishi,Triton GLX-R,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$27,000 - $35,000",Diesel,5,430 Nm
-Mitsubishi,ASX Dynamic,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$25,000 - $28,000",Petrol,5,197 Nm
-Mitsubishi,Mirage ES,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 - $17,000",Petrol,5,100 Nm
-Mitsubishi,Outlander LE,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$30,000 - $35,000",Petrol,7,245 Nm
-Mitsubishi,Fuso Fighter (Truck),7.5L Diesel,"7,500 cc",240 hp,120 km/h,N/A,"$70,000 - $90,000",Diesel,2,686 Nm
-Mitsubishi,Fuso Canter Eco Hybrid,3.0L Diesel Hybrid,"3,000 cc",150 hp,120 km/h,N/A,"$50,000 - $60,000",Diesel Hybrid,2,370 Nm
-Mitsubishi,Space Runner,1.8L MIVEC,"1,800 cc",140 hp,185 km/h,10.5 sec,"$20,000 - $23,000",Petrol,5,170 Nm
-Mitsubishi,Toppo BJ,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm
-Mitsubishi,Chariot,2.0L MIVEC,"2,000 cc",140 hp,185 km/h,10.5 sec,"$20,000 - $23,000",Petrol,7,170 Nm
-Mitsubishi,Lancer SE Limited,2.0L MIVEC,"2,000 cc",148 hp,200 km/h,10.0 sec,"$20,000 - $25,000",Petrol,5,197 Nm
-Mitsubishi,Pajero SWB (Short Wheel Base),3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 - $50,000",Diesel,5,441 Nm
-Mitsubishi,Delica Space Gear,2.4L Petrol,"2,400 cc",145 hp,170 km/h,13.0 sec,"$30,000 - $35,000",Petrol,7,206 Nm
-Mitsubishi,i (Kei Car),0.7L 3-Cylinder,660 cc,64 hp,130 km/h,15.5 sec,"$12,000 - $15,000",Petrol,4,94 Nm
-Mitsubishi,Dion,2.0L 4-Cylinder,"2,000 cc",135 hp,180 km/h,11.5 sec,"$15,000 - $18,000",Petrol,7,181 Nm
-Mitsubishi,Airtrek,2.4L 4-Cylinder,"2,400 cc",160 hp,190 km/h,11.0 sec,"$20,000 - $25,000",Petrol,5,214 Nm
-Mitsubishi,eK Space,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm
-Mitsubishi,eK X,0.7L 3-Cylinder,660 cc,64 hp,140 km/h,13.5 sec,"$12,000 - $15,000",Petrol,4,94 Nm
-Mitsubishi,Colt CZC Convertible,1.5L Turbocharged,"1,500 cc",147 hp,200 km/h,9.5 sec,"$25,000 - $30,000",Petrol,4,210 Nm
-Mitsubishi,Galant Fortis,2.0L MIVEC,"2,000 cc",154 hp,200 km/h,10.0 sec,"$18,000 - $22,000",Petrol,5,200 Nm
-Mitsubishi,Endeavor,3.8L V6,"3,800 cc",225 hp,190 km/h,9.5 sec,"$28,000 - $35,000",Petrol,5,343 Nm
-Mitsubishi,Grand Lancer,1.8L MIVEC,"1,800 cc",138 hp,190 km/h,11.5 sec,"$20,000 - $25,000",Petrol,5,173 Nm
-Mitsubishi,Sigma,3.0L V6,"3,000 cc",210 hp,220 km/h,8.5 sec,"$35,000 - $40,000",Petrol,5,270 Nm
-Mitsubishi,Town Box,0.7L 3-Cylinder,660 cc,48 hp,120 km/h,16.0 sec,"$10,000 - $12,000",Petrol,4,60 Nm
-Mitsubishi,Minicab MiEV,Electric Motor,16 kWh battery,64 hp,100 km/h,N/A,"$18,000 - $20,000",Electric,2,196 Nm
-Mazda,Mazda3,2.0L SkyActiv-G,"2,000 cc",155 hp,200 km/h,8.9 sec,"$22,000 - $26,000",Petrol,5,213 Nm
-Mazda,Mazda3 Hatchback,2.5L SkyActiv-G,"2,500 cc",186 hp,210 km/h,8.3 sec,"$24,000 - $28,000",Petrol,5,252 Nm
-Mazda,Mazda6,2.5L Turbocharged,"2,500 cc",250 hp,240 km/h,6.4 sec,"$27,000 - $35,000",Petrol,5,420 Nm
-Mazda,CX-3,2.0L SkyActiv-G,"2,000 cc",146 hp,180 km/h,9.5 sec,"$21,000 - $25,000",Petrol,5,197 Nm
-Mazda,CX-30,2.5L SkyActiv-G,"2,500 cc",186 hp,204 km/h,8.7 sec,"$23,000 - $28,000",Petrol,5,252 Nm
-Mazda,CX-5,2.5L SkyActiv-G,"2,500 cc",187 hp,200 km/h,8.8 sec,"$26,000 - $32,000",Petrol,5,252 Nm
-Mazda,CX-50,2.5L Turbocharged,"2,500 cc",256 hp,220 km/h,6.9 sec,"$29,000 - $36,000",Petrol,5,434 Nm
-Mazda,CX-8,2.2L Diesel,"2,200 cc",187 hp,200 km/h,9.2 sec,"$36,000 - $42,000",Diesel,7,450 Nm
-Mazda,CX-9,2.5L Turbocharged,"2,500 cc",250 hp,210 km/h,7.2 sec,"$38,000 - $45,000",Petrol,7,420 Nm
-Mazda,CX-90,3.3L Inline-6 Turbo,"3,300 cc",340 hp,240 km/h,6.2 sec,"$50,000 - $60,000",Petrol,7,500 Nm
-Mazda,MX-5 Miata,2.0L SkyActiv-G,"2,000 cc",181 hp,225 km/h,6.5 sec,"$27,000 - $33,000",Petrol,2,205 Nm
-Mazda,MX-5 Miata RF,2.0L SkyActiv-G,"2,000 cc",181 hp,225 km/h,6.5 sec,"$33,000 - $40,000",Petrol,2,205 Nm
-Mazda,MX-30 Electric,Electric Motor,35.5 kWh battery,143 hp,140 km/h,9.7 sec,"$33,000 - $37,000",Electric,5,271 Nm
-Mazda,CX-4,2.0L SkyActiv-G,"2,000 cc",158 hp,190 km/h,9.6 sec,"$22,000 - $28,000",Petrol,5,202 Nm
-Mazda,CX-7,2.3L Turbocharged,"2,300 cc",244 hp,210 km/h,7.9 sec,"$28,000 - $33,000",Petrol,5,350 Nm
-Mazda,Tribute,3.0L V6,"3,000 cc",200 hp,190 km/h,9.0 sec,"$24,000 - $30,000",Petrol,5,270 Nm
-Mazda,B-Series Pickup,2.5L Diesel,"2,500 cc",143 hp,170 km/h,11.5 sec,"$20,000 - $25,000",Diesel,5,330 Nm
-Mazda,BT-50,3.2L Turbo Diesel,"3,200 cc",200 hp,180 km/h,10.0 sec,"$27,000 - $35,000",Diesel,5,470 Nm
-Mazda,RX-7,1.3L Rotary Twin-Turbo,"1,300 cc",276 hp,250 km/h,5.5 sec,"$30,000 - $50,000",Petrol,4,314 Nm
-Mazda,RX-3,1.2L Rotary,"1,200 cc",110 hp,180 km/h,8.9 sec,"$15,000 - $20,000",Petrol,4,145 Nm
-Mazda,RX-Vision Concept,Rotary SkyActiv-R,N/A,400 hp (est.),300 km/h (est.),N/A,N/A (Concept Only),Petrol (Hybrid),2,N/A
-Mazda,323F,1.6L Inline-4,"1,600 cc",105 hp,180 km/h,10.5 sec,"$14,000 - $18,000",Petrol,5,145 Nm
-Mazda,Familia Sedan,1.5L Inline-4,"1,500 cc",100 hp,175 km/h,11.0 sec,"$12,000 - $16,000",Petrol,5,135 Nm
-Mazda,Premacy,2.0L Inline-4,"2,000 cc",138 hp,190 km/h,9.8 sec,"$18,000 - $24,000",Petrol,7,180 Nm
-Mazda,Demio,1.5L SkyActiv-G,"1,500 cc",108 hp,180 km/h,10.2 sec,"$13,000 - $18,000",Petrol,5,142 Nm
-Mazda,Millenia,2.3L Miller Cycle V6,"2,300 cc",210 hp,215 km/h,8.2 sec,"$25,000 - $30,000",Petrol,5,280 Nm
-Mazda,Eunos Cosmo,2.0L Twin-Rotor Turbo,"2,000 cc",280 hp,240 km/h,6.0 sec,"$40,000 - $50,000",Petrol,4,300 Nm
-Mazda,Atenza,2.5L SkyActiv-G,"2,500 cc",192 hp,210 km/h,8.5 sec,"$22,000 - $28,000",Petrol,5,252 Nm
-Mazda,Roadpacer AP,1.3L Rotary,"1,300 cc",130 hp,170 km/h,11.5 sec,"$20,000 - $25,000",Petrol,5,165 Nm
-Mazda,626,2.0L Inline-4,"2,000 cc",140 hp,190 km/h,9.5 sec,"$18,000 - $22,000",Petrol,5,180 Nm
-Mazda,929,3.0L V6,"3,000 cc",205 hp,220 km/h,8.0 sec,"$25,000 - $30,000",Petrol,5,270 Nm
-Mazda,Luce,1.8L Rotary,"1,800 cc",135 hp,180 km/h,10.5 sec,"$15,000 - $20,000",Petrol,5,170 Nm
-Mazda,Capella,1.6L Inline-4,"1,600 cc",110 hp,175 km/h,11.2 sec,"$14,000 - $18,000",Petrol,5,145 Nm
-Mazda,Carol,660cc Inline-3,660 cc,63 hp,140 km/h,15.5 sec,"$9,000 - $12,000",Petrol,4,90 Nm
-Mazda,Autozam AZ-1,657cc Turbocharged Inline-3,657 cc,63 hp,140 km/h,11.0 sec,"$12,000 - $18,000",Petrol,2,85 Nm
-Mazda,Spiano,660cc Inline-3,660 cc,54 hp,130 km/h,16.0 sec,"$8,000 - $10,000",Petrol,4,80 Nm
-Mazda,Verisa,1.5L Inline-4,"1,500 cc",113 hp,170 km/h,11.0 sec,"$14,000 - $18,000",Petrol,5,140 Nm
-Mazda,MX-6,2.5L V6,"2,500 cc",164 hp,210 km/h,8.8 sec,"$18,000 - $24,000",Petrol,4,215 Nm
-Mazda,MPV,3.0L V6,"3,000 cc",200 hp,185 km/h,9.5 sec,"$25,000 - $30,000",Petrol,7,265 Nm
-Mazda,Proceed Marvie,2.6L Inline-4,"2,600 cc",120 hp,160 km/h,12.0 sec,"$20,000 - $25,000",Petrol,5,200 Nm
-Mazda,Sentia,3.0L V6,"3,000 cc",200 hp,200 km/h,9.0 sec,"$22,000 - $28,000",Petrol,5,265 Nm
-Mazda,Cronos,2.5L V6,"2,500 cc",160 hp,190 km/h,8.5 sec,"$18,000 - $22,000",Petrol,5,210 Nm
-Mazda,Scrum,660cc Inline-3,660 cc,63 hp,130 km/h,15.0 sec,"$9,000 - $11,000",Petrol,4,85 Nm
-Mazda,Parkway,1.8L Inline-4,"1,800 cc",115 hp,160 km/h,12.5 sec,"$20,000 - $25,000",Petrol,5,155 Nm
-Mazda,Titan (Truck),3.0L Inline-4,"3,000 cc",130 hp,120 km/h,15.0 sec,"$25,000 - $30,000",Diesel,2,300 Nm
-Mazda,CX-60,2.5L Inline-4,"2,500 cc",187 hp,200 km/h,8.5 sec,"$40,000 - $45,000",Petrol/Diesel,5,250 Nm
-Mazda,CX-80,3.0L Inline-6,"3,000 cc",250 hp,210 km/h,7.5 sec,"$45,000 - $50,000",Petrol,7,400 Nm
-Mazda,T1500,1.5L Inline-4,"1,500 cc",75 hp,120 km/h,18.0 sec,"$15,000 - $18,000",Petrol,2,105 Nm
-Mazda,Bongo Van,2.0L Inline-4,"2,000 cc",100 hp,160 km/h,14.0 sec,"$18,000 - $22,000",Petrol/Diesel,3,140 Nm
-Mazda,Bongo Friendee,2.5L Inline-4,"2,500 cc",115 hp,160 km/h,12.5 sec,"$20,000 - $24,000",Petrol/Diesel,7,160 Nm
-Mazda,Revue,1.3L Inline-4,"1,300 cc",75 hp,130 km/h,15.5 sec,"$10,000 - $12,000",Petrol,5,110 Nm
-Mazda,Protegé,1.8L Inline-4,"1,800 cc",125 hp,185 km/h,9.0 sec,"$15,000 - $18,000",Petrol,5,170 Nm
-Mazda,Xedos 6,2.5L V6,"2,500 cc",170 hp,215 km/h,8.5 sec,"$25,000 - $30,000",Petrol,5,230 Nm
-Mazda,Xedos 9,3.0L V6,"3,000 cc",200 hp,220 km/h,7.5 sec,"$30,000 - $35,000",Petrol,5,260 Nm
-Mazda,121,1.3L Inline-4,"1,300 cc",70 hp,155 km/h,13.0 sec,"$12,000 - $15,000",Petrol,5,110 Nm
-Mazda,1200,1.2L Inline-4,"1,200 cc",60 hp,130 km/h,16.0 sec,"$10,000 - $12,000",Petrol,4,90 Nm
-Mazda,1500,1.5L Inline-4,"1,500 cc",85 hp,145 km/h,14.0 sec,"$12,000 - $15,000",Petrol,5,120 Nm
-Mazda,RX-2,1.3L Inline-2 (Wankel),"1,308 cc",130 hp,185 km/h,8.5 sec,"$20,000 - $25,000",Petrol,4,220 Nm
-Mazda,RX-5,1.6L Inline-2 (Wankel),"1,588 cc",135 hp,190 km/h,8.0 sec,"$25,000 - $30,000",Petrol,4,210 Nm
-Mazda,RX-7 Spirit R,1.3L Inline-2 (Wankel),"1,308 cc",280 hp,250 km/h,5.5 sec,"$35,000 - $40,000",Petrol,2,290 Nm
-Mazda,Cosmo Sport (110S),1.0L Inline-2 (Wankel),"1,000 cc",110 hp,170 km/h,10.0 sec,"$30,000 - $35,000",Petrol,2,150 Nm
-Mazda,Eunos 500,2.0L Inline-4,"1,998 cc",135 hp,200 km/h,9.0 sec,"$25,000 - $28,000",Petrol,5,170 Nm
-Mazda,Eunos Roadster,1.6L Inline-4,"1,590 cc",116 hp,180 km/h,9.5 sec,"$15,000 - $18,000",Petrol,2,140 Nm
-Mazda,Familia Astina,1.8L Inline-4,"1,800 cc",135 hp,200 km/h,8.5 sec,"$20,000 - $22,000",Petrol,5,170 Nm
-Mazda,Savanna RX-7,1.3L Inline-2 (Wankel),"1,308 cc",165 hp,230 km/h,7.5 sec,"$28,000 - $32,000",Petrol,2,230 Nm
-Mazda,Capella Cargo,2.0L Inline-4,"2,000 cc",115 hp,180 km/h,12.0 sec,"$18,000 - $22,000",Petrol,4,160 Nm
-Mazda,818,1.6L Inline-4,"1,600 cc",100 hp,170 km/h,12.5 sec,"$14,000 - $18,000",Petrol,5,130 Nm
-Mazda,Sentia Hardtop Coupe,2.5L V6,"2,500 cc",160 hp,210 km/h,8.0 sec,"$30,000 - $35,000",Petrol,4,220 Nm
-Mazda,Biante,2.0L Inline-4,"2,000 cc",150 hp,185 km/h,10.0 sec,"$22,000 - $26,000",Petrol,7,200 Nm
-Mazda,Premacy Hydrogen RE Hybrid,1.3L Wankel + Electric,"1,308 cc",200 hp,180 km/h,9.5 sec,"$40,000 - $45,000",Hybrid,5,260 Nm
-Mazda,Carol P360,0.36L Inline-2,360 cc,26 hp,85 km/h,35.0 sec,"$8,000 - $10,000",Petrol,4,45 Nm
-Mazda,T2000,2.0L Inline-4,"2,000 cc",110 hp,170 km/h,12.5 sec,"$18,000 - $20,000",Petrol,2,160 Nm
-Mazda,AZ-Offroad,1.3L Inline-4,"1,298 cc",85 hp,145 km/h,12.0 sec,"$15,000 - $18,000",Petrol,5,130 Nm
-Mazda,Scrum Wagon,0.66L Inline-3,657 cc,64 hp,120 km/h,15.5 sec,"$10,000 - $12,000",Petrol,4,95 Nm
-Mazda,Persona,1.5L Inline-4,"1,497 cc",92 hp,160 km/h,13.5 sec,"$13,000 - $16,000",Petrol,5,130 Nm
-Mazda,Astina,1.8L Inline-4,"1,800 cc",140 hp,190 km/h,8.5 sec,"$20,000 - $24,000",Petrol,5,160 Nm
-Mazda,Etude,1.6L Inline-4,"1,598 cc",105 hp,170 km/h,10.0 sec,"$14,000 - $16,000",Petrol,5,135 Nm
-Mazda,Porter,1.5L Inline-4,"1,497 cc",95 hp,130 km/h,14.0 sec,"$12,000 - $15,000",Petrol,2,130 Nm
-Mazda,MX-3,1.6L Inline-4,"1,598 cc",130 hp,190 km/h,8.5 sec,"$18,000 - $22,000",Petrol,4,140 Nm
-Mazda,MX-5 Superlight Concept,1.8L Inline-4,"1,798 cc",143 hp,200 km/h,7.5 sec,"$30,000 - $35,000",Petrol,2,160 Nm
-Mazda,Premacy Hydrogen RE,1.3L Wankel + Electric,"1,308 cc",200 hp,180 km/h,9.5 sec,"$40,000 - $45,000",Hybrid,5,260 Nm
-Mazda,Bongo Truck,2.0L Inline-4,"1,998 cc",120 hp,130 km/h,15.0 sec,"$15,000 - $18,000",Petrol,2,150 Nm
-Mazda,Rotary Pickup,1.3L Wankel Rotary Engine,"1,308 cc",130 hp,150 km/h,14.5 sec,"$18,000 - $22,000",Petrol,2,160 Nm
-Mazda,Luce Rotary Coupe,1.3L Wankel Rotary Engine,"1,308 cc",135 hp,175 km/h,12.0 sec,"$25,000 - $30,000",Petrol,4,180 Nm
-Mazda,Millenia S,2.5L V6,"2,500 cc",200 hp,220 km/h,8.0 sec,"$30,000 - $35,000",Petrol,5,250 Nm
-Mazda,787B (Race Car),2.6L Wankel Rotary Engine,"2,620 cc",700 hp,320 km/h,3.5 sec,"$5,000,000 - $7,000,000",Petrol,1,500 Nm
+Mitsubishi,Mirage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$16,000 ",Petrol,5,100 Nm
+Mitsubishi,Mirage G4,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$17,000 ",Petrol,5,100 Nm
+Mitsubishi,Outlander,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$28,000 ",Petrol,7,245 Nm
+Mitsubishi,Outlander PHEV,2.4L Hybrid,"2,400 cc / 20 kWh battery",248 hp,170 km/h,10.5 sec,"$39,000 ",Hybrid,5,300 Nm
+Mitsubishi,Eclipse Cross,1.5L Turbo,"1,500 cc",152 hp,180 km/h,9.8 sec,"$25,000 ",Petrol,5,250 Nm
+Mitsubishi,ASX (Outlander Sport),2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$23,000 ",Petrol,5,197 Nm
+Mitsubishi,Pajero,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$40,000 ",Diesel,7,441 Nm
+Mitsubishi,Pajero Sport,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 ",Diesel,7,430 Nm
+Mitsubishi,Triton (L200),2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$25,000 ",Diesel,5,430 Nm
+Mitsubishi,Lancer Evolution X,2.0L Turbocharged,"2,000 cc",291 hp,240 km/h,5.0 sec,"$40,000 ",Petrol,5,407 Nm
+Mitsubishi,i-MiEV (Electric),Electric Motor,16 kWh battery,66 hp,130 km/h,15.0 sec,"$23,000 ",Electric,4,196 Nm
+Mitsubishi,Xpander,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,13.5 sec,"$20,000 ",Petrol,7,141 Nm
+Mitsubishi,Delica D:5,2.2L Diesel Turbo,"2,200 cc",145 hp,175 km/h,11.0 sec,"$35,000 ",Diesel,7,360 Nm
+Mitsubishi,Colt,1.5L MIVEC,"1,500 cc",150 hp,180 km/h,9.0 sec,"$15,000 ",Petrol,5,100 - 180 Nm
+Mitsubishi,Grandis,2.4L MIVEC,"2,400 cc",165 hp,190 km/h,11.0 sec,"$25,000 ",Petrol,7,217 Nm
+Mitsubishi,Outlander Black Edition,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$32,000 ",Petrol,7,245 Nm
+Mitsubishi,Outlander SEL,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$31,000 ",Petrol,7,245 Nm
+Mitsubishi,Outlander SE,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$29,000 ",Petrol,7,245 Nm
+Mitsubishi,Eclipse Cross Black Edition,1.5L Turbo,"1,500 cc",152 hp,180 km/h,9.8 sec,"$28,000 ",Petrol,5,250 Nm
+Mitsubishi,ASX Exceed,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$26,000 ",Petrol,5,197 Nm
+Mitsubishi,Triton Athlete,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$27,000 ",Diesel,5,430 Nm
+Mitsubishi,Pajero Final Edition,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 ",Diesel,7,441 Nm
+Mitsubishi,L200 Barbarian X,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$30,000 ",Diesel,5,430 Nm
+Mitsubishi,Space Star,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.0 sec,"$15,000 ",Petrol,5,100 Nm
+Mitsubishi,Lancer EX,1.6L MIVEC / 2.0L,"1,600 - 2,000 cc",117 - 148 hp,200 km/h,10.0 sec,"$20,000 ",Petrol,5,154 - 197 Nm
+Mitsubishi,Montero Sport,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 ",Diesel,7,430 Nm
+Mitsubishi,Attrage,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 ",Petrol,5,100 Nm
+Mitsubishi,RVR SE,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.5 sec,"$23,000 ",Petrol,5,197 Nm
+Mitsubishi,Delica Van,2.0L Diesel / 2.2L Diesel,"2,000 - 2,200 cc",145 hp,175 km/h,11.5 sec,"$30,000 ",Diesel,7,360 Nm
+Mitsubishi,Canter (Truck),3.0L Diesel,"3,000 cc",150 hp,120 km/h,17.0 sec,"$35,000 ",Diesel,2,370 Nm
+Mitsubishi,Lancer GLX,1.6L MIVEC,"1,600 cc",115 hp,190 km/h,11.5 sec,"$17,000 ",Petrol,5,154 Nm
+Mitsubishi,Pajero GLS,3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 ",Diesel,7,441 Nm
+Mitsubishi,Xpander Cross,1.5L MIVEC,"1,500 cc",105 hp,170 km/h,12.0 sec,"$20,000 ",Petrol,7,141 Nm
+Mitsubishi,Eclipse Cross PHEV,2.4L PHEV,"2,400 cc",188 hp,180 km/h,10.5 sec,"$35,000 ",Plug-in Hybrid,5,199 Nm
+Mitsubishi,Outlander ES,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$28,000 ",Petrol,7,245 Nm
+Mitsubishi,Montero GLX,2.4L Diesel Turbo,"2,400 cc",181 hp,180 km/h,11.0 sec,"$35,000 ",Diesel,7,430 Nm
+Mitsubishi,Triton GLX-R,2.4L Diesel Turbo,"2,400 cc",181 hp,177 km/h,10.5 sec,"$27,000 ",Diesel,5,430 Nm
+Mitsubishi,ASX Dynamic,2.0L MIVEC,"2,000 cc",148 hp,190 km/h,10.0 sec,"$25,000 ",Petrol,5,197 Nm
+Mitsubishi,Mirage ES,1.2L MIVEC,"1,200 cc",78 hp,170 km/h,12.5 sec,"$15,000 ",Petrol,5,100 Nm
+Mitsubishi,Outlander LE,2.5L 4-Cylinder,"2,500 cc",181 hp,190 km/h,9.5 sec,"$30,000 ",Petrol,7,245 Nm
+Mitsubishi,Fuso Fighter (Truck),7.5L Diesel,"7,500 cc",240 hp,120 km/h,17.0 sec,"$70,000 ",Diesel,2,686 Nm
+Mitsubishi,Fuso Canter Eco Hybrid,3.0L Diesel Hybrid,"3,000 cc",150 hp,120 km/h,18.0 sec,"$50,000 ",Diesel Hybrid,2,370 Nm
+Mitsubishi,Space Runner,1.8L MIVEC,"1,800 cc",140 hp,185 km/h,10.5 sec,"$20,000 ",Petrol,5,170 Nm
+Mitsubishi,Toppo BJ,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 ",Petrol,4,60 Nm
+Mitsubishi,Chariot,2.0L MIVEC,"2,000 cc",140 hp,185 km/h,10.5 sec,"$20,000 ",Petrol,7,170 Nm
+Mitsubishi,Lancer SE Limited,2.0L MIVEC,"2,000 cc",148 hp,200 km/h,10.0 sec,"$20,000 ",Petrol,5,197 Nm
+Mitsubishi,Pajero SWB (Short Wheel Base),3.2L Diesel Turbo,"3,200 cc",189 hp,180 km/h,10.5 sec,"$45,000 ",Diesel,5,441 Nm
+Mitsubishi,Delica Space Gear,2.4L Petrol,"2,400 cc",145 hp,170 km/h,13.0 sec,"$30,000 ",Petrol,7,206 Nm
+Mitsubishi,i (Kei Car),0.7L 3-Cylinder,660 cc,64 hp,130 km/h,15.5 sec,"$12,000 ",Petrol,4,94 Nm
+Mitsubishi,Dion,2.0L 4-Cylinder,"2,000 cc",135 hp,180 km/h,11.5 sec,"$15,000 ",Petrol,7,181 Nm
+Mitsubishi,Airtrek,2.4L 4-Cylinder,"2,400 cc",160 hp,190 km/h,11.0 sec,"$20,000 ",Petrol,5,214 Nm
+Mitsubishi,eK Space,0.7L 3-Cylinder,660 cc,52 hp,130 km/h,15.0 sec,"$10,000 ",Petrol,4,60 Nm
+Mitsubishi,eK X,0.7L 3-Cylinder,660 cc,64 hp,140 km/h,13.5 sec,"$12,000 ",Petrol,4,94 Nm
+Mitsubishi,Colt CZC Convertible,1.5L Turbocharged,"1,500 cc",147 hp,200 km/h,9.5 sec,"$25,000 ",Petrol,4,210 Nm
+Mitsubishi,Galant Fortis,2.0L MIVEC,"2,000 cc",154 hp,200 km/h,10.0 sec,"$18,000 ",Petrol,5,200 Nm
+Mitsubishi,Endeavor,3.8L V6,"3,800 cc",225 hp,190 km/h,9.5 sec,"$28,000 ",Petrol,5,343 Nm
+Mitsubishi,Grand Lancer,1.8L MIVEC,"1,800 cc",138 hp,190 km/h,11.5 sec,"$20,000 ",Petrol,5,173 Nm
+Mitsubishi,Sigma,3.0L V6,"3,000 cc",210 hp,220 km/h,8.5 sec,"$35,000 ",Petrol,5,270 Nm
+Mitsubishi,Town Box,0.7L 3-Cylinder,660 cc,48 hp,120 km/h,16.0 sec,"$10,000 ",Petrol,4,60 Nm
+Mitsubishi,Minicab MiEV,Electric Motor,16 kWh battery,64 hp,100 km/h,13.5 sec,"$18,000 ",Electric,2,196 Nm
+Mazda,Mazda3,2.0L SkyActiv-G,"2,000 cc",155 hp,200 km/h,8.9 sec,"$22,000 ",Petrol,5,213 Nm
+Mazda,Mazda3 Hatchback,2.5L SkyActiv-G,"2,500 cc",186 hp,210 km/h,8.3 sec,"$24,000 ",Petrol,5,252 Nm
+Mazda,Mazda6,2.5L Turbocharged,"2,500 cc",250 hp,240 km/h,6.4 sec,"$27,000 ",Petrol,5,420 Nm
+Mazda,CX-3,2.0L SkyActiv-G,"2,000 cc",146 hp,180 km/h,9.5 sec,"$21,000 ",Petrol,5,197 Nm
+Mazda,CX-30,2.5L SkyActiv-G,"2,500 cc",186 hp,204 km/h,8.7 sec,"$23,000 ",Petrol,5,252 Nm
+Mazda,CX-5,2.5L SkyActiv-G,"2,500 cc",187 hp,200 km/h,8.8 sec,"$26,000 ",Petrol,5,252 Nm
+Mazda,CX-50,2.5L Turbocharged,"2,500 cc",256 hp,220 km/h,6.9 sec,"$29,000 ",Petrol,5,434 Nm
+Mazda,CX-8,2.2L Diesel,"2,200 cc",187 hp,200 km/h,9.2 sec,"$36,000 ",Diesel,7,450 Nm
+Mazda,CX-9,2.5L Turbocharged,"2,500 cc",250 hp,210 km/h,7.2 sec,"$38,000 ",Petrol,7,420 Nm
+Mazda,CX-90,3.3L Inline-6 Turbo,"3,300 cc",340 hp,240 km/h,6.2 sec,"$50,000 ",Petrol,7,500 Nm
+Mazda,MX-5 Miata,2.0L SkyActiv-G,"2,000 cc",181 hp,225 km/h,6.5 sec,"$27,000 ",Petrol,2,205 Nm
+Mazda,MX-5 Miata RF,2.0L SkyActiv-G,"2,000 cc",181 hp,225 km/h,6.5 sec,"$33,000 ",Petrol,2,205 Nm
+Mazda,MX-30 Electric,Electric Motor,35.5 kWh battery,143 hp,140 km/h,9.7 sec,"$33,000 ",Electric,5,271 Nm
+Mazda,CX-4,2.0L SkyActiv-G,"2,000 cc",158 hp,190 km/h,9.6 sec,"$22,000 ",Petrol,5,202 Nm
+Mazda,CX-7,2.3L Turbocharged,"2,300 cc",244 hp,210 km/h,7.9 sec,"$28,000 ",Petrol,5,350 Nm
+Mazda,Tribute,3.0L V6,"3,000 cc",200 hp,190 km/h,9.0 sec,"$24,000 ",Petrol,5,270 Nm
+Mazda,B-Series Pickup,2.5L Diesel,"2,500 cc",143 hp,170 km/h,11.5 sec,"$20,000 ",Diesel,5,330 Nm
+Mazda,BT-50,3.2L Turbo Diesel,"3,200 cc",200 hp,180 km/h,10.0 sec,"$27,000 ",Diesel,5,470 Nm
+Mazda,RX-7,1.3L Rotary Twin-Turbo,"1,300 cc",276 hp,250 km/h,5.5 sec,"$30,000 ",Petrol,4,314 Nm
+Mazda,RX-3,1.2L Rotary,"1,200 cc",110 hp,180 km/h,8.9 sec,"$15,000 ",Petrol,4,145 Nm
+Mazda,323F,1.6L Inline-4,"1,600 cc",105 hp,180 km/h,10.5 sec,"$14,000 ",Petrol,5,145 Nm
+Mazda,Familia Sedan,1.5L Inline-4,"1,500 cc",100 hp,175 km/h,11.0 sec,"$12,000 ",Petrol,5,135 Nm
+Mazda,Premacy,2.0L Inline-4,"2,000 cc",138 hp,190 km/h,9.8 sec,"$18,000 ",Petrol,7,180 Nm
+Mazda,Demio,1.5L SkyActiv-G,"1,500 cc",108 hp,180 km/h,10.2 sec,"$13,000 ",Petrol,5,142 Nm
+Mazda,Millenia,2.3L Miller Cycle V6,"2,300 cc",210 hp,215 km/h,8.2 sec,"$25,000 ",Petrol,5,280 Nm
+Mazda,Eunos Cosmo,2.0L Twin-Rotor Turbo,"2,000 cc",280 hp,240 km/h,6.0 sec,"$40,000 ",Petrol,4,300 Nm
+Mazda,Atenza,2.5L SkyActiv-G,"2,500 cc",192 hp,210 km/h,8.5 sec,"$22,000 ",Petrol,5,252 Nm
+Mazda,Roadpacer AP,1.3L Rotary,"1,300 cc",130 hp,170 km/h,11.5 sec,"$20,000 ",Petrol,5,165 Nm
+Mazda,626,2.0L Inline-4,"2,000 cc",140 hp,190 km/h,9.5 sec,"$18,000 ",Petrol,5,180 Nm
+Mazda,929,3.0L V6,"3,000 cc",205 hp,220 km/h,8.0 sec,"$25,000 ",Petrol,5,270 Nm
+Mazda,Luce,1.8L Rotary,"1,800 cc",135 hp,180 km/h,10.5 sec,"$15,000 ",Petrol,5,170 Nm
+Mazda,Capella,1.6L Inline-4,"1,600 cc",110 hp,175 km/h,11.2 sec,"$14,000 ",Petrol,5,145 Nm
+Mazda,Carol,660cc Inline-3,660 cc,63 hp,140 km/h,15.5 sec,"$9,000 ",Petrol,4,90 Nm
+Mazda,Autozam AZ-1,657cc Turbocharged Inline-3,657 cc,63 hp,140 km/h,11.0 sec,"$12,000 ",Petrol,2,85 Nm
+Mazda,Spiano,660cc Inline-3,660 cc,54 hp,130 km/h,16.0 sec,"$8,000 ",Petrol,4,80 Nm
+Mazda,Verisa,1.5L Inline-4,"1,500 cc",113 hp,170 km/h,11.0 sec,"$14,000 ",Petrol,5,140 Nm
+Mazda,MX-6,2.5L V6,"2,500 cc",164 hp,210 km/h,8.8 sec,"$18,000 ",Petrol,4,215 Nm
+Mazda,MPV,3.0L V6,"3,000 cc",200 hp,185 km/h,9.5 sec,"$25,000 ",Petrol,7,265 Nm
+Mazda,Proceed Marvie,2.6L Inline-4,"2,600 cc",120 hp,160 km/h,12.0 sec,"$20,000 ",Petrol,5,200 Nm
+Mazda,Sentia,3.0L V6,"3,000 cc",200 hp,200 km/h,9.0 sec,"$22,000 ",Petrol,5,265 Nm
+Mazda,Cronos,2.5L V6,"2,500 cc",160 hp,190 km/h,8.5 sec,"$18,000 ",Petrol,5,210 Nm
+Mazda,Scrum,660cc Inline-3,660 cc,63 hp,130 km/h,15.0 sec,"$9,000 ",Petrol,4,85 Nm
+Mazda,Parkway,1.8L Inline-4,"1,800 cc",115 hp,160 km/h,12.5 sec,"$20,000 ",Petrol,5,155 Nm
+Mazda,Titan (Truck),3.0L Inline-4,"3,000 cc",130 hp,120 km/h,15.0 sec,"$25,000 ",Diesel,2,300 Nm
+Mazda,CX-60,2.5L Inline-4,"2,500 cc",187 hp,200 km/h,8.5 sec,"$40,000 ",Petrol/Diesel,5,250 Nm
+Mazda,CX-80,3.0L Inline-6,"3,000 cc",250 hp,210 km/h,7.5 sec,"$45,000 ",Petrol,7,400 Nm
+Mazda,T1500,1.5L Inline-4,"1,500 cc",75 hp,120 km/h,18.0 sec,"$15,000 ",Petrol,2,105 Nm
+Mazda,Bongo Van,2.0L Inline-4,"2,000 cc",100 hp,160 km/h,14.0 sec,"$18,000 ",Petrol/Diesel,3,140 Nm
+Mazda,Bongo Friendee,2.5L Inline-4,"2,500 cc",115 hp,160 km/h,12.5 sec,"$20,000 ",Petrol/Diesel,7,160 Nm
+Mazda,Revue,1.3L Inline-4,"1,300 cc",75 hp,130 km/h,15.5 sec,"$10,000 ",Petrol,5,110 Nm
+Mazda,Protegé,1.8L Inline-4,"1,800 cc",125 hp,185 km/h,9.0 sec,"$15,000 ",Petrol,5,170 Nm
+Mazda,Xedos 6,2.5L V6,"2,500 cc",170 hp,215 km/h,8.5 sec,"$25,000 ",Petrol,5,230 Nm
+Mazda,Xedos 9,3.0L V6,"3,000 cc",200 hp,220 km/h,7.5 sec,"$30,000 ",Petrol,5,260 Nm
+Mazda,121,1.3L Inline-4,"1,300 cc",70 hp,155 km/h,13.0 sec,"$12,000 ",Petrol,5,110 Nm
+Mazda,1200,1.2L Inline-4,"1,200 cc",60 hp,130 km/h,16.0 sec,"$10,000 ",Petrol,4,90 Nm
+Mazda,1500,1.5L Inline-4,"1,500 cc",85 hp,145 km/h,14.0 sec,"$12,000 ",Petrol,5,120 Nm
+Mazda,RX-2,1.3L Inline-2 (Wankel),"1,308 cc",130 hp,185 km/h,8.5 sec,"$20,000 ",Petrol,4,220 Nm
+Mazda,RX-5,1.6L Inline-2 (Wankel),"1,588 cc",135 hp,190 km/h,8.0 sec,"$25,000 ",Petrol,4,210 Nm
+Mazda,RX-7 Spirit R,1.3L Inline-2 (Wankel),"1,308 cc",280 hp,250 km/h,5.5 sec,"$35,000 ",Petrol,2,290 Nm
+Mazda,Cosmo Sport (110S),1.0L Inline-2 (Wankel),"1,000 cc",110 hp,170 km/h,10.0 sec,"$30,000 ",Petrol,2,150 Nm
+Mazda,Eunos 500,2.0L Inline-4,"1,998 cc",135 hp,200 km/h,9.0 sec,"$25,000 ",Petrol,5,170 Nm
+Mazda,Eunos Roadster,1.6L Inline-4,"1,590 cc",116 hp,180 km/h,9.5 sec,"$15,000 ",Petrol,2,140 Nm
+Mazda,Familia Astina,1.8L Inline-4,"1,800 cc",135 hp,200 km/h,8.5 sec,"$20,000 ",Petrol,5,170 Nm
+Mazda,Savanna RX-7,1.3L Inline-2 (Wankel),"1,308 cc",165 hp,230 km/h,7.5 sec,"$28,000 ",Petrol,2,230 Nm
+Mazda,Capella Cargo,2.0L Inline-4,"2,000 cc",115 hp,180 km/h,12.0 sec,"$18,000 ",Petrol,4,160 Nm
+Mazda,818,1.6L Inline-4,"1,600 cc",100 hp,170 km/h,12.5 sec,"$14,000 ",Petrol,5,130 Nm
+Mazda,Sentia Hardtop Coupe,2.5L V6,"2,500 cc",160 hp,210 km/h,8.0 sec,"$30,000 ",Petrol,4,220 Nm
+Mazda,Biante,2.0L Inline-4,"2,000 cc",150 hp,185 km/h,10.0 sec,"$22,000 ",Petrol,7,200 Nm
+Mazda,Premacy Hydrogen RE Hybrid,1.3L Wankel + Electric,"1,308 cc",200 hp,180 km/h,9.5 sec,"$40,000 ",Hybrid,5,260 Nm
+Mazda,Carol P360,0.36L Inline-2,360 cc,26 hp,85 km/h,35.0 sec,"$8,000 ",Petrol,4,45 Nm
+Mazda,T2000,2.0L Inline-4,"2,000 cc",110 hp,170 km/h,12.5 sec,"$18,000 ",Petrol,2,160 Nm
+Mazda,AZ-Offroad,1.3L Inline-4,"1,298 cc",85 hp,145 km/h,12.0 sec,"$15,000 ",Petrol,5,130 Nm
+Mazda,Scrum Wagon,0.66L Inline-3,657 cc,64 hp,120 km/h,15.5 sec,"$10,000 ",Petrol,4,95 Nm
+Mazda,Persona,1.5L Inline-4,"1,497 cc",92 hp,160 km/h,13.5 sec,"$13,000 ",Petrol,5,130 Nm
+Mazda,Astina,1.8L Inline-4,"1,800 cc",140 hp,190 km/h,8.5 sec,"$20,000 ",Petrol,5,160 Nm
+Mazda,Etude,1.6L Inline-4,"1,598 cc",105 hp,170 km/h,10.0 sec,"$14,000 ",Petrol,5,135 Nm
+Mazda,Porter,1.5L Inline-4,"1,497 cc",95 hp,130 km/h,14.0 sec,"$12,000 ",Petrol,2,130 Nm
+Mazda,MX-3,1.6L Inline-4,"1,598 cc",130 hp,190 km/h,8.5 sec,"$18,000 ",Petrol,4,140 Nm
+Mazda,MX-5 Superlight Concept,1.8L Inline-4,"1,798 cc",143 hp,200 km/h,7.5 sec,"$30,000 ",Petrol,2,160 Nm
+Mazda,Premacy Hydrogen RE,1.3L Wankel + Electric,"1,308 cc",200 hp,180 km/h,9.5 sec,"$40,000 ",Hybrid,5,260 Nm
+Mazda,Bongo Truck,2.0L Inline-4,"1,998 cc",120 hp,130 km/h,15.0 sec,"$15,000 ",Petrol,2,150 Nm
+Mazda,Rotary Pickup,1.3L Wankel Rotary Engine,"1,308 cc",130 hp,150 km/h,14.5 sec,"$18,000 ",Petrol,2,160 Nm
+Mazda,Luce Rotary Coupe,1.3L Wankel Rotary Engine,"1,308 cc",135 hp,175 km/h,12.0 sec,"$25,000 ",Petrol,4,180 Nm
+Mazda,Millenia S,2.5L V6,"2,500 cc",200 hp,220 km/h,8.0 sec,"$30,000 ",Petrol,5,250 Nm
+Mazda,787B (Race Car),2.6L Wankel Rotary Engine,"2,620 cc",700 hp,320 km/h,3.5 sec,"$5,000,000 ",Petrol,1,500 Nm
