@@ -83,4 +83,4 @@ if st.button('Predict Price'):
     lower_bound = price_pred * 0.75
     upper_bound = price_pred * 1.25
     st.write(f"Predicted Price: ${price_pred:,.2f}")
-    st.write(f"Price Range(Economy - Luxury): ${lower_bound:,.2f} - ${upper_bound:,.2f}")
+    st.write(f"Price Ranges: ${lower_bound:,.2f} - ${upper_bound:,.2f}")
