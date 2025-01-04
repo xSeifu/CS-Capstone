@@ -2,21 +2,22 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import root_mean_squared_error
 
+# Load the dataset
 df = pd.read_csv('CarsDataset.csv', encoding='cp1252')
-
 st.title('CS CAPSTONE PROJECT')
 
 st.subheader('Data Information:')
-# Group car prices above 500,000 into one category
-df['Grouped Prices'] = df['Car Prices$'].apply(lambda x: x if x <= 250000 else 250000)
 
 # Boxplot for grouped car prices
 fig, ax = plt.subplots()
-ax.boxplot(df['Grouped Prices'], vert=False, patch_artist=True,
+ax.boxplot(df['Car Prices$'], vert=False, patch_artist=True,
            boxprops=dict(facecolor='skyblue', color='black'),
            medianprops=dict(color='red'))
-ax.set_title('Distribution of Car Prices (Capped at 250,000)')
+ax.set_title('Distribution of Car Prices')
 ax.set_xlabel('Price (in $)')
 st.pyplot(fig)
 
@@ -31,15 +32,44 @@ ax.set_title('Car Distribution by Manufacturer')
 st.pyplot(fig)
 
 # Scatter plot for Price vs Horsepower
-price_threshold = 1000000
-filtered_df = df[df['Car Prices$'] <= price_threshold]
 fig, ax = plt.subplots()
-ax.scatter(filtered_df['HorsePower'], filtered_df['Car Prices$'], alpha=0.5)
+ax.scatter(df['HorsePower'], df['Car Prices$'], alpha=0.5)
 ax.set_title('Price vs. Horsepower')
 ax.set_xlabel('Horsepower')
 ax.set_ylabel('Price (in $)')
-price_ticks = np.arange(0, filtered_df['Car Prices$'].max(), 50000)
-horsepower_ticks = np.arange(0, filtered_df['HorsePower'].max() + 50, 150)
+price_ticks = np.arange(0, df['Car Prices$'].max(), 25000)
+horsepower_ticks = np.arange(0, df['HorsePower'].max() + 50, 150)
 ax.set_xticks(horsepower_ticks)
 ax.set_yticks(price_ticks)
 st.pyplot(fig)
+
+#The model uses a log transformation to better handle price variability and improve prediction accuracy.
+#All displayed prices have been converted back to the original scale for ease of interpretation.
+X = df[['HorsePower', 'Torque(Nm)']]
+df['Log Price'] = np.log(df['Car Prices$'])
+y = df['Log Price']
+
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Initialize and train the model
+model = LinearRegression()
+model.fit(X_train, y_train)
+# Predict on test data
+y_pred = model.predict(X_test)
+# Calculate RMSE
+#rmse = root_mean_squared_error(y_test, y_pred)
+#st.write('RMSE:', rmse)
+
+# Input fields for prediction
+horsepower = st.number_input('HorsePower', min_value=50, max_value=1300, step=10)
+torque = st.number_input('Torque(Nm)', min_value=50, max_value=3500, step=10)
+
+# Predict log-transformed price
+if st.button('Predict Price'):
+    user_input = np.array([[horsepower, torque]])
+    log_price_pred = model.predict(user_input)[0]
+    price_pred = np.exp(log_price_pred)
+    lower_bound = price_pred * 0.75
+    upper_bound = price_pred * 1.25
+    st.write(f"Predicted Price: ${price_pred:,.2f}")
+    st.write(f"Price Range(Economy - Luxury): ${lower_bound:,.2f} - ${upper_bound:,.2f}")
