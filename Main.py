@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import root_mean_squared_error
+from sklearn.metrics import root_mean_squared_error , r2_score
 
 # Load the dataset
 df = pd.read_csv('CarsDataset.csv', encoding='cp1252')
@@ -57,8 +57,17 @@ model.fit(X_train, y_train)
 # Predict on test data
 y_pred = model.predict(X_test)
 # Calculate RMSE
-#rmse = root_mean_squared_error(y_test, y_pred)
-#st.write('RMSE:', rmse)
+rmse = root_mean_squared_error(y_test, y_pred)
+# Calculate R² score
+r2 = r2_score(y_test, y_pred)
+# Display model accuracy metrics
+st.subheader("Model Accuracy")
+st.write(f"**Root Mean Squared Error (RMSE):** {rmse:,.2f}")
+st.write(f"**R² Score:** {r2:.2f}")
+st.write("""
+- **RMSE** gives an idea of how much the predicted prices deviate from actual prices on average.
+- **R² Score** indicates how much variance in the price is explained by the model, with a value closer to 1 being ideal.
+""")
 
 st.subheader('Tool for Predicting Car Prices')
 st.write('Please enter the HorsePower and Torque values of the car you would like to predict the price for and then press the predict price button. (Range: 50-1300 for HorsePower, 50-3500 for Torque)')
