@@ -60,6 +60,8 @@ y_pred = model.predict(X_test)
 #rmse = root_mean_squared_error(y_test, y_pred)
 #st.write('RMSE:', rmse)
 
+st.subheader('Tool for Predicting Car Prices')
+st.write('Please enter the HorsePower and Torque values of the car you would like to predict the price for and then press the predict price button. (Range: 50-1300 for HorsePower, 50-3500 for Torque)')
 # Input fields for prediction
 horsepower = st.number_input('HorsePower', min_value=50, max_value=1300, step=10)
 torque = st.number_input('Torque(Nm)', min_value=50, max_value=3500, step=10)
