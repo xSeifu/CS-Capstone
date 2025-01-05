@@ -60,6 +60,19 @@ y_pred = model.predict(X_test)
 rmse = root_mean_squared_error(y_test, y_pred)
 # Calculate R² score
 r2 = r2_score(y_test, y_pred)
+# Scatter plot: Actual vs Predicted Prices (Original Scale)
+# Transform back to original scale
+y_test = np.exp(y_test)
+y_pred = np.exp(y_pred)
+st.subheader('Scatter plot of model performance')
+fig, ax = plt.subplots()
+ax.scatter(y_test, y_pred, alpha=0.5)
+ax.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], color='red', linestyle='--')
+ax.set_title('Actual vs Predicted Prices (Original Scale)')
+ax.set_xlabel('Actual Prices')
+ax.set_ylabel('Predicted Prices')
+st.pyplot(fig)
+
 # Display model accuracy metrics
 st.subheader("Model Accuracy")
 st.write(f"**Root Mean Squared Error (RMSE):** {rmse:,.2f}")
