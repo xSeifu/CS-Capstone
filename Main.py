@@ -8,7 +8,7 @@ from sklearn.metrics import root_mean_squared_error , r2_score
 
 # Load the dataset
 df = pd.read_csv('CarsDataset.csv', encoding='cp1252')
-st.title('CS CAPSTONE PROJECT')
+st.title('Car Price Prediction Tool')
 
 st.subheader('Data Information:')
 
